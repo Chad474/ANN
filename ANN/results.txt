@@ -1,0 +1,3346 @@
+Hidden Layers used: 1. Neurons used: 4
+Initial learning speed: 0.9
+Hidden neuron# 1, node# 0. Initial weight: 0.91.
+Hidden neuron# 1, node# 1. Initial weight: -0.63.
+Hidden neuron# 1, node# 2. Initial weight: -0.55.
+Hidden neuron# 1, node# 3. Initial weight: 0.48.
+Hidden neuron# 1, node# 4. Initial weight: 0.88.
+Hidden neuron# 1, node# 5. Initial weight: 0.68.
+Hidden neuron# 1, node# 6. Initial weight: -0.01.
+Hidden neuron# 1, node# 7. Initial weight: -0.07.
+Hidden neuron# 1, node# 8. Initial weight: 0.39.
+Hidden neuron# 1, node# 9. Initial weight: -0.24.
+Hidden neuron# 1, node# 10. Initial weight: 0.66.
+Hidden neuron# 1, node# 11. Initial weight: -0.26.
+Hidden neuron# 1, node# 12. Initial weight: 0.7.
+Hidden neuron# 1, node# 13. Initial weight: 0.87.
+Hidden neuron# 1, node# 14. Initial weight: 0.6.
+Hidden neuron# 1, node# 15. Initial weight: -0.2.
+Hidden neuron# 1, node# 16. Initial weight: -0.35.
+Hidden neuron# 1, node# 17. Initial weight: 0.06.
+Hidden neuron# 1, node# 18. Initial weight: 0.72.
+Hidden neuron# 1, node# 19. Initial weight: -0.24.
+Hidden neuron# 1, node# 20. Initial weight: 0.61.
+Hidden neuron# 1, node# 21. Initial weight: 0.44.
+Hidden neuron# 1, node# 22. Initial weight: 0.32.
+Hidden neuron# 2, node# 0. Initial weight: -0.56.
+Hidden neuron# 2, node# 1. Initial weight: -0.43.
+Hidden neuron# 2, node# 2. Initial weight: 0.61.
+Hidden neuron# 2, node# 3. Initial weight: -0.37.
+Hidden neuron# 2, node# 4. Initial weight: -0.87.
+Hidden neuron# 2, node# 5. Initial weight: -0.91.
+Hidden neuron# 2, node# 6. Initial weight: 0.23.
+Hidden neuron# 2, node# 7. Initial weight: -0.66.
+Hidden neuron# 2, node# 8. Initial weight: 0.6.
+Hidden neuron# 2, node# 9. Initial weight: -0.73.
+Hidden neuron# 2, node# 10. Initial weight: -0.06.
+Hidden neuron# 2, node# 11. Initial weight: 0.06.
+Hidden neuron# 2, node# 12. Initial weight: 0.08.
+Hidden neuron# 2, node# 13. Initial weight: -0.62.
+Hidden neuron# 2, node# 14. Initial weight: -0.71.
+Hidden neuron# 2, node# 15. Initial weight: -0.37.
+Hidden neuron# 2, node# 16. Initial weight: -0.06.
+Hidden neuron# 2, node# 17. Initial weight: -0.3.
+Hidden neuron# 2, node# 18. Initial weight: 0.75.
+Hidden neuron# 2, node# 19. Initial weight: -0.12.
+Hidden neuron# 2, node# 20. Initial weight: -0.76.
+Hidden neuron# 2, node# 21. Initial weight: 0.72.
+Hidden neuron# 2, node# 22. Initial weight: -0.34.
+Hidden neuron# 3, node# 0. Initial weight: -0.11.
+Hidden neuron# 3, node# 1. Initial weight: 0.02.
+Hidden neuron# 3, node# 2. Initial weight: 0.5.
+Hidden neuron# 3, node# 3. Initial weight: -0.67.
+Hidden neuron# 3, node# 4. Initial weight: 0.46.
+Hidden neuron# 3, node# 5. Initial weight: 0.93.
+Hidden neuron# 3, node# 6. Initial weight: -0.64.
+Hidden neuron# 3, node# 7. Initial weight: -0.61.
+Hidden neuron# 3, node# 8. Initial weight: -0.13.
+Hidden neuron# 3, node# 9. Initial weight: -0.8.
+Hidden neuron# 3, node# 10. Initial weight: 0.19.
+Hidden neuron# 3, node# 11. Initial weight: 0.23.
+Hidden neuron# 3, node# 12. Initial weight: -0.8.
+Hidden neuron# 3, node# 13. Initial weight: 0.15.
+Hidden neuron# 3, node# 14. Initial weight: -0.37.
+Hidden neuron# 3, node# 15. Initial weight: 0.
+Hidden neuron# 3, node# 16. Initial weight: 0.67.
+Hidden neuron# 3, node# 17. Initial weight: -0.02.
+Hidden neuron# 3, node# 18. Initial weight: 0.41.
+Hidden neuron# 3, node# 19. Initial weight: 0.75.
+Hidden neuron# 3, node# 20. Initial weight: 0.84.
+Hidden neuron# 3, node# 21. Initial weight: 0.63.
+Hidden neuron# 3, node# 22. Initial weight: 0.12.
+Hidden neuron# 4, node# 0. Initial weight: -0.87.
+Hidden neuron# 4, node# 1. Initial weight: -0.05.
+Hidden neuron# 4, node# 2. Initial weight: -0.56.
+Hidden neuron# 4, node# 3. Initial weight: -0.71.
+Hidden neuron# 4, node# 4. Initial weight: 0.01.
+Hidden neuron# 4, node# 5. Initial weight: 0.93.
+Hidden neuron# 4, node# 6. Initial weight: 0.28.
+Hidden neuron# 4, node# 7. Initial weight: 0.14.
+Hidden neuron# 4, node# 8. Initial weight: -0.44.
+Hidden neuron# 4, node# 9. Initial weight: -0.44.
+Hidden neuron# 4, node# 10. Initial weight: 0.19.
+Hidden neuron# 4, node# 11. Initial weight: -0.41.
+Hidden neuron# 4, node# 12. Initial weight: 0.31.
+Hidden neuron# 4, node# 13. Initial weight: -0.82.
+Hidden neuron# 4, node# 14. Initial weight: 0.32.
+Hidden neuron# 4, node# 15. Initial weight: 0.55.
+Hidden neuron# 4, node# 16. Initial weight: 0.21.
+Hidden neuron# 4, node# 17. Initial weight: -0.27.
+Hidden neuron# 4, node# 18. Initial weight: 0.6.
+Hidden neuron# 4, node# 19. Initial weight: -0.24.
+Hidden neuron# 4, node# 20. Initial weight: 0.42.
+Hidden neuron# 4, node# 21. Initial weight: 0.98.
+Hidden neuron# 4, node# 22. Initial weight: -0.55.
+Output neuron, node# 0. Initial weight: -0.78.
+Output neuron, node# 1. Initial weight: -0.51.
+Output neuron, node# 2. Initial weight: 0.05.
+Output neuron, node# 3. Initial weight: -0.35.
+Output neuron, node# 4. Initial weight: 0.5.
+Hidden neuron# 1, node# 0. Intermediate weight: 0.91.
+Hidden neuron# 1, node# 1. Intermediate weight: -0.63.
+Hidden neuron# 1, node# 2. Intermediate weight: -0.55.
+Hidden neuron# 1, node# 3. Intermediate weight: 0.48.
+Hidden neuron# 1, node# 4. Intermediate weight: 0.88.
+Hidden neuron# 1, node# 5. Intermediate weight: 0.68.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.01.
+Hidden neuron# 1, node# 7. Intermediate weight: -0.07.
+Hidden neuron# 1, node# 8. Intermediate weight: 0.39.
+Hidden neuron# 1, node# 9. Intermediate weight: -0.24.
+Hidden neuron# 1, node# 10. Intermediate weight: 0.66.
+Hidden neuron# 1, node# 11. Intermediate weight: -0.26.
+Hidden neuron# 1, node# 12. Intermediate weight: 0.7.
+Hidden neuron# 1, node# 13. Intermediate weight: 0.87.
+Hidden neuron# 1, node# 14. Intermediate weight: 0.6.
+Hidden neuron# 1, node# 15. Intermediate weight: -0.2.
+Hidden neuron# 1, node# 16. Intermediate weight: -0.35.
+Hidden neuron# 1, node# 17. Intermediate weight: 0.06.
+Hidden neuron# 1, node# 18. Intermediate weight: 0.72.
+Hidden neuron# 1, node# 19. Intermediate weight: -0.24.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.61.
+Hidden neuron# 1, node# 21. Intermediate weight: 0.44.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: -0.56.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.43.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.61.
+Hidden neuron# 2, node# 3. Intermediate weight: -0.37.
+Hidden neuron# 2, node# 4. Intermediate weight: -0.87.
+Hidden neuron# 2, node# 5. Intermediate weight: -0.91.
+Hidden neuron# 2, node# 6. Intermediate weight: 0.23.
+Hidden neuron# 2, node# 7. Intermediate weight: -0.66.
+Hidden neuron# 2, node# 8. Intermediate weight: 0.6.
+Hidden neuron# 2, node# 9. Intermediate weight: -0.73.
+Hidden neuron# 2, node# 10. Intermediate weight: -0.06.
+Hidden neuron# 2, node# 11. Intermediate weight: 0.06.
+Hidden neuron# 2, node# 12. Intermediate weight: 0.08.
+Hidden neuron# 2, node# 13. Intermediate weight: -0.62.
+Hidden neuron# 2, node# 14. Intermediate weight: -0.71.
+Hidden neuron# 2, node# 15. Intermediate weight: -0.37.
+Hidden neuron# 2, node# 16. Intermediate weight: -0.06.
+Hidden neuron# 2, node# 17. Intermediate weight: -0.3.
+Hidden neuron# 2, node# 18. Intermediate weight: 0.75.
+Hidden neuron# 2, node# 19. Intermediate weight: -0.12.
+Hidden neuron# 2, node# 20. Intermediate weight: -0.76.
+Hidden neuron# 2, node# 21. Intermediate weight: 0.72.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.11.
+Hidden neuron# 3, node# 1. Intermediate weight: 0.02.
+Hidden neuron# 3, node# 2. Intermediate weight: 0.5.
+Hidden neuron# 3, node# 3. Intermediate weight: -0.67.
+Hidden neuron# 3, node# 4. Intermediate weight: 0.46.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.93.
+Hidden neuron# 3, node# 6. Intermediate weight: -0.64.
+Hidden neuron# 3, node# 7. Intermediate weight: -0.61.
+Hidden neuron# 3, node# 8. Intermediate weight: -0.13.
+Hidden neuron# 3, node# 9. Intermediate weight: -0.8.
+Hidden neuron# 3, node# 10. Intermediate weight: 0.19.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.23.
+Hidden neuron# 3, node# 12. Intermediate weight: -0.8.
+Hidden neuron# 3, node# 13. Intermediate weight: 0.15.
+Hidden neuron# 3, node# 14. Intermediate weight: -0.37.
+Hidden neuron# 3, node# 15. Intermediate weight: 0.
+Hidden neuron# 3, node# 16. Intermediate weight: 0.67.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.02.
+Hidden neuron# 3, node# 18. Intermediate weight: 0.41.
+Hidden neuron# 3, node# 19. Intermediate weight: 0.75.
+Hidden neuron# 3, node# 20. Intermediate weight: 0.84.
+Hidden neuron# 3, node# 21. Intermediate weight: 0.63.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: -0.87.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.05.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.56.
+Hidden neuron# 4, node# 3. Intermediate weight: -0.71.
+Hidden neuron# 4, node# 4. Intermediate weight: 0.01.
+Hidden neuron# 4, node# 5. Intermediate weight: 0.93.
+Hidden neuron# 4, node# 6. Intermediate weight: 0.28.
+Hidden neuron# 4, node# 7. Intermediate weight: 0.14.
+Hidden neuron# 4, node# 8. Intermediate weight: -0.44.
+Hidden neuron# 4, node# 9. Intermediate weight: -0.44.
+Hidden neuron# 4, node# 10. Intermediate weight: 0.19.
+Hidden neuron# 4, node# 11. Intermediate weight: -0.41.
+Hidden neuron# 4, node# 12. Intermediate weight: 0.31.
+Hidden neuron# 4, node# 13. Intermediate weight: -0.82.
+Hidden neuron# 4, node# 14. Intermediate weight: 0.32.
+Hidden neuron# 4, node# 15. Intermediate weight: 0.55.
+Hidden neuron# 4, node# 16. Intermediate weight: 0.21.
+Hidden neuron# 4, node# 17. Intermediate weight: -0.27.
+Hidden neuron# 4, node# 18. Intermediate weight: 0.6.
+Hidden neuron# 4, node# 19. Intermediate weight: -0.24.
+Hidden neuron# 4, node# 20. Intermediate weight: 0.42.
+Hidden neuron# 4, node# 21. Intermediate weight: 0.98.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -0.78.
+Output neuron, node# 1. Intermediate weight: -0.51.
+Output neuron, node# 2. Intermediate weight: 0.05.
+Output neuron, node# 3. Intermediate weight: -0.35.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 0. Accuracy: 91.61%.
+End of epoch 1. Accuracy: 95.78%.
+End of epoch 2. Accuracy: 96.37%.
+End of epoch 3. Accuracy: 96.97%.
+End of epoch 4. Accuracy: 97.2%.
+End of epoch 5. Accuracy: 97.63%.
+End of epoch 6. Accuracy: 97.86%.
+End of epoch 7. Accuracy: 98.02%.
+End of epoch 8. Accuracy: 98.32%.
+End of epoch 9. Accuracy: 98.38%.
+End of epoch 10. Accuracy: 98.5%.
+End of epoch 11. Accuracy: 98.5%.
+End of epoch 12. Accuracy: 98.57%.
+End of epoch 13. Accuracy: 98.65%.
+End of epoch 14. Accuracy: 98.66%.
+End of epoch 15. Accuracy: 98.71%.
+End of epoch 16. Accuracy: 98.74%.
+End of epoch 17. Accuracy: 98.74%.
+End of epoch 18. Accuracy: 98.64%.
+End of epoch 19. Accuracy: 98.7%.
+End of epoch 20. Accuracy: 98.68%.
+End of epoch 21. Accuracy: 98.71%.
+End of epoch 22. Accuracy: 98.68%.
+End of epoch 23. Accuracy: 98.71%.
+End of epoch 24. Accuracy: 98.72%.
+End of epoch 25. Accuracy: 98.65%.
+End of epoch 26. Accuracy: 98.7%.
+End of epoch 27. Accuracy: 98.68%.
+End of epoch 28. Accuracy: 98.74%.
+End of epoch 29. Accuracy: 98.72%.
+End of epoch 30. Accuracy: 98.73%.
+End of epoch 31. Accuracy: 98.73%.
+End of epoch 32. Accuracy: 98.72%.
+End of epoch 33. Accuracy: 98.73%.
+End of epoch 34. Accuracy: 98.75%.
+End of epoch 35. Accuracy: 98.76%.
+End of epoch 36. Accuracy: 98.76%.
+End of epoch 37. Accuracy: 98.7%.
+End of epoch 38. Accuracy: 98.76%.
+End of epoch 39. Accuracy: 98.71%.
+End of epoch 40. Accuracy: 98.72%.
+End of epoch 41. Accuracy: 98.71%.
+End of epoch 42. Accuracy: 98.78%.
+End of epoch 43. Accuracy: 98.73%.
+End of epoch 44. Accuracy: 98.72%.
+End of epoch 45. Accuracy: 98.76%.
+End of epoch 46. Accuracy: 98.74%.
+End of epoch 47. Accuracy: 98.74%.
+End of epoch 48. Accuracy: 98.73%.
+End of epoch 49. Accuracy: 98.72%.
+End of epoch 50. Accuracy: 98.72%.
+End of epoch 51. Accuracy: 98.73%.
+End of epoch 52. Accuracy: 98.74%.
+End of epoch 53. Accuracy: 98.78%.
+End of epoch 54. Accuracy: 98.77%.
+End of epoch 55. Accuracy: 98.78%.
+End of epoch 56. Accuracy: 98.74%.
+End of epoch 57. Accuracy: 98.76%.
+End of epoch 58. Accuracy: 98.72%.
+End of epoch 59. Accuracy: 98.75%.
+End of epoch 60. Accuracy: 98.74%.
+End of epoch 61. Accuracy: 98.75%.
+End of epoch 62. Accuracy: 98.72%.
+End of epoch 63. Accuracy: 98.66%.
+End of epoch 64. Accuracy: 98.71%.
+End of epoch 65. Accuracy: 98.74%.
+End of epoch 66. Accuracy: 98.77%.
+End of epoch 67. Accuracy: 98.79%.
+End of epoch 68. Accuracy: 98.75%.
+End of epoch 69. Accuracy: 98.78%.
+End of epoch 70. Accuracy: 98.77%.
+End of epoch 71. Accuracy: 98.75%.
+End of epoch 72. Accuracy: 98.69%.
+End of epoch 73. Accuracy: 98.77%.
+End of epoch 74. Accuracy: 98.76%.
+End of epoch 75. Accuracy: 98.71%.
+End of epoch 76. Accuracy: 98.77%.
+End of epoch 77. Accuracy: 98.77%.
+End of epoch 78. Accuracy: 98.78%.
+End of epoch 79. Accuracy: 98.78%.
+End of epoch 80. Accuracy: 98.79%.
+End of epoch 81. Accuracy: 98.78%.
+End of epoch 82. Accuracy: 98.76%.
+End of epoch 83. Accuracy: 98.77%.
+End of epoch 84. Accuracy: 98.79%.
+End of epoch 85. Accuracy: 98.81%.
+End of epoch 86. Accuracy: 98.8%.
+End of epoch 87. Accuracy: 98.81%.
+End of epoch 88. Accuracy: 98.76%.
+End of epoch 89. Accuracy: 98.75%.
+End of epoch 90. Accuracy: 98.73%.
+End of epoch 91. Accuracy: 98.78%.
+End of epoch 92. Accuracy: 98.79%.
+End of epoch 93. Accuracy: 98.79%.
+End of epoch 94. Accuracy: 98.72%.
+End of epoch 95. Accuracy: 98.78%.
+End of epoch 96. Accuracy: 98.85%.
+End of epoch 97. Accuracy: 98.71%.
+End of epoch 98. Accuracy: 98.77%.
+End of epoch 99. Accuracy: 98.82%.
+Hidden neuron# 1, node# 0. Intermediate weight: 1.48.
+Hidden neuron# 1, node# 1. Intermediate weight: -0.03.
+Hidden neuron# 1, node# 2. Intermediate weight: -0.48.
+Hidden neuron# 1, node# 3. Intermediate weight: 0.5.
+Hidden neuron# 1, node# 4. Intermediate weight: 1.15.
+Hidden neuron# 1, node# 5. Intermediate weight: 1.15.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.22.
+Hidden neuron# 1, node# 7. Intermediate weight: 0.7.
+Hidden neuron# 1, node# 8. Intermediate weight: 0.75.
+Hidden neuron# 1, node# 9. Intermediate weight: 0.43.
+Hidden neuron# 1, node# 10. Intermediate weight: 1.35.
+Hidden neuron# 1, node# 11. Intermediate weight: -0.41.
+Hidden neuron# 1, node# 12. Intermediate weight: 1.48.
+Hidden neuron# 1, node# 13. Intermediate weight: 0.55.
+Hidden neuron# 1, node# 14. Intermediate weight: 0.43.
+Hidden neuron# 1, node# 15. Intermediate weight: 0.46.
+Hidden neuron# 1, node# 16. Intermediate weight: 0.82.
+Hidden neuron# 1, node# 17. Intermediate weight: 0.57.
+Hidden neuron# 1, node# 18. Intermediate weight: 1.37.
+Hidden neuron# 1, node# 19. Intermediate weight: 0.68.
+Hidden neuron# 1, node# 20. Intermediate weight: 1.28.
+Hidden neuron# 1, node# 21. Intermediate weight: 0.46.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: -1.79.
+Hidden neuron# 2, node# 1. Intermediate weight: -2.08.
+Hidden neuron# 2, node# 2. Intermediate weight: -2.87.
+Hidden neuron# 2, node# 3. Intermediate weight: -12.08.
+Hidden neuron# 2, node# 4. Intermediate weight: 5.38.
+Hidden neuron# 2, node# 5. Intermediate weight: -3.08.
+Hidden neuron# 2, node# 6. Intermediate weight: 7.64.
+Hidden neuron# 2, node# 7. Intermediate weight: -4.62.
+Hidden neuron# 2, node# 8. Intermediate weight: 3.37.
+Hidden neuron# 2, node# 9. Intermediate weight: -7.92.
+Hidden neuron# 2, node# 10. Intermediate weight: 3.66.
+Hidden neuron# 2, node# 11. Intermediate weight: -1.76.
+Hidden neuron# 2, node# 12. Intermediate weight: -2.83.
+Hidden neuron# 2, node# 13. Intermediate weight: 7.34.
+Hidden neuron# 2, node# 14. Intermediate weight: 2.79.
+Hidden neuron# 2, node# 15. Intermediate weight: -2.71.
+Hidden neuron# 2, node# 16. Intermediate weight: -5.11.
+Hidden neuron# 2, node# 17. Intermediate weight: -0.03.
+Hidden neuron# 2, node# 18. Intermediate weight: -4.09.
+Hidden neuron# 2, node# 19. Intermediate weight: 3.51.
+Hidden neuron# 2, node# 20. Intermediate weight: 2.09.
+Hidden neuron# 2, node# 21. Intermediate weight: 12.06.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 0.56.
+Hidden neuron# 3, node# 1. Intermediate weight: 0.77.
+Hidden neuron# 3, node# 2. Intermediate weight: 0.98.
+Hidden neuron# 3, node# 3. Intermediate weight: -0.41.
+Hidden neuron# 3, node# 4. Intermediate weight: 0.55.
+Hidden neuron# 3, node# 5. Intermediate weight: 1.42.
+Hidden neuron# 3, node# 6. Intermediate weight: -0.15.
+Hidden neuron# 3, node# 7. Intermediate weight: -0.27.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.48.
+Hidden neuron# 3, node# 9. Intermediate weight: -0.07.
+Hidden neuron# 3, node# 10. Intermediate weight: 0.8.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.38.
+Hidden neuron# 3, node# 12. Intermediate weight: -0.06.
+Hidden neuron# 3, node# 13. Intermediate weight: 0.54.
+Hidden neuron# 3, node# 14. Intermediate weight: 0.06.
+Hidden neuron# 3, node# 15. Intermediate weight: 0.74.
+Hidden neuron# 3, node# 16. Intermediate weight: 1.82.
+Hidden neuron# 3, node# 17. Intermediate weight: 0.62.
+Hidden neuron# 3, node# 18. Intermediate weight: 1.09.
+Hidden neuron# 3, node# 19. Intermediate weight: 1.52.
+Hidden neuron# 3, node# 20. Intermediate weight: 1.24.
+Hidden neuron# 3, node# 21. Intermediate weight: 0.78.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.92.
+Hidden neuron# 4, node# 1. Intermediate weight: 1.25.
+Hidden neuron# 4, node# 2. Intermediate weight: 1.69.
+Hidden neuron# 4, node# 3. Intermediate weight: 6.24.
+Hidden neuron# 4, node# 4. Intermediate weight: 5.66.
+Hidden neuron# 4, node# 5. Intermediate weight: -6.45.
+Hidden neuron# 4, node# 6. Intermediate weight: 8.86.
+Hidden neuron# 4, node# 7. Intermediate weight: -36.65.
+Hidden neuron# 4, node# 8. Intermediate weight: 5.03.
+Hidden neuron# 4, node# 9. Intermediate weight: 8.54.
+Hidden neuron# 4, node# 10. Intermediate weight: -10.79.
+Hidden neuron# 4, node# 11. Intermediate weight: 18.3.
+Hidden neuron# 4, node# 12. Intermediate weight: 15.17.
+Hidden neuron# 4, node# 13. Intermediate weight: -6.22.
+Hidden neuron# 4, node# 14. Intermediate weight: -3.54.
+Hidden neuron# 4, node# 15. Intermediate weight: 0.06.
+Hidden neuron# 4, node# 16. Intermediate weight: -12.42.
+Hidden neuron# 4, node# 17. Intermediate weight: -3.31.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.25.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.82.
+Hidden neuron# 4, node# 20. Intermediate weight: -9.79.
+Hidden neuron# 4, node# 21. Intermediate weight: -4.71.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -6.91.
+Output neuron, node# 1. Intermediate weight: 15.21.
+Output neuron, node# 2. Intermediate weight: -6.42.
+Output neuron, node# 3. Intermediate weight: 12.89.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 100. Accuracy: 98.78%.
+End of epoch 101. Accuracy: 98.73%.
+End of epoch 102. Accuracy: 98.82%.
+End of epoch 103. Accuracy: 98.76%.
+End of epoch 104. Accuracy: 98.83%.
+End of epoch 105. Accuracy: 98.79%.
+End of epoch 106. Accuracy: 98.67%.
+End of epoch 107. Accuracy: 98.75%.
+End of epoch 108. Accuracy: 98.8%.
+End of epoch 109. Accuracy: 98.8%.
+End of epoch 110. Accuracy: 98.77%.
+End of epoch 111. Accuracy: 98.71%.
+End of epoch 112. Accuracy: 98.61%.
+End of epoch 113. Accuracy: 98.88%.
+End of epoch 114. Accuracy: 98.71%.
+End of epoch 115. Accuracy: 98.72%.
+End of epoch 116. Accuracy: 98.77%.
+End of epoch 117. Accuracy: 98.76%.
+End of epoch 118. Accuracy: 98.83%.
+End of epoch 119. Accuracy: 98.92%.
+End of epoch 120. Accuracy: 98.74%.
+End of epoch 121. Accuracy: 98.85%.
+End of epoch 122. Accuracy: 98.66%.
+End of epoch 123. Accuracy: 98.57%.
+End of epoch 124. Accuracy: 98.82%.
+End of epoch 125. Accuracy: 98.74%.
+End of epoch 126. Accuracy: 98.8%.
+End of epoch 127. Accuracy: 98.75%.
+End of epoch 128. Accuracy: 98.61%.
+End of epoch 129. Accuracy: 98.76%.
+End of epoch 130. Accuracy: 98.72%.
+End of epoch 131. Accuracy: 98.87%.
+End of epoch 132. Accuracy: 98.83%.
+End of epoch 133. Accuracy: 98.46%.
+End of epoch 134. Accuracy: 98.94%.
+End of epoch 135. Accuracy: 99.07%.
+End of epoch 136. Accuracy: 99.03%.
+End of epoch 137. Accuracy: 97.52%.
+End of epoch 138. Accuracy: 99%.
+End of epoch 139. Accuracy: 98.85%.
+End of epoch 140. Accuracy: 98.96%.
+End of epoch 141. Accuracy: 99%.
+End of epoch 142. Accuracy: 99.01%.
+End of epoch 143. Accuracy: 98.96%.
+End of epoch 144. Accuracy: 99.01%.
+End of epoch 145. Accuracy: 98.93%.
+End of epoch 146. Accuracy: 98.82%.
+End of epoch 147. Accuracy: 98.97%.
+End of epoch 148. Accuracy: 98.98%.
+End of epoch 149. Accuracy: 98.92%.
+End of epoch 150. Accuracy: 99.13%.
+End of epoch 151. Accuracy: 98.98%.
+End of epoch 152. Accuracy: 99.08%.
+End of epoch 153. Accuracy: 99.06%.
+End of epoch 154. Accuracy: 99.04%.
+End of epoch 155. Accuracy: 98.93%.
+End of epoch 156. Accuracy: 98.91%.
+End of epoch 157. Accuracy: 99.09%.
+End of epoch 158. Accuracy: 99.08%.
+End of epoch 159. Accuracy: 99.07%.
+End of epoch 160. Accuracy: 99%.
+End of epoch 161. Accuracy: 98.82%.
+End of epoch 162. Accuracy: 98.78%.
+End of epoch 163. Accuracy: 99.07%.
+End of epoch 164. Accuracy: 99.05%.
+End of epoch 165. Accuracy: 98.86%.
+End of epoch 166. Accuracy: 98.99%.
+End of epoch 167. Accuracy: 99.06%.
+End of epoch 168. Accuracy: 99.07%.
+End of epoch 169. Accuracy: 99.06%.
+End of epoch 170. Accuracy: 98.97%.
+End of epoch 171. Accuracy: 98.96%.
+End of epoch 172. Accuracy: 99.06%.
+End of epoch 173. Accuracy: 99.06%.
+End of epoch 174. Accuracy: 99.05%.
+End of epoch 175. Accuracy: 99.07%.
+End of epoch 176. Accuracy: 99.03%.
+End of epoch 177. Accuracy: 98.99%.
+End of epoch 178. Accuracy: 99.13%.
+End of epoch 179. Accuracy: 99.05%.
+End of epoch 180. Accuracy: 99.07%.
+End of epoch 181. Accuracy: 99.04%.
+End of epoch 182. Accuracy: 99%.
+End of epoch 183. Accuracy: 98.99%.
+End of epoch 184. Accuracy: 99.01%.
+End of epoch 185. Accuracy: 99.04%.
+End of epoch 186. Accuracy: 99.15%.
+End of epoch 187. Accuracy: 99.02%.
+End of epoch 188. Accuracy: 99.02%.
+End of epoch 189. Accuracy: 99.13%.
+End of epoch 190. Accuracy: 99.1%.
+End of epoch 191. Accuracy: 99.09%.
+End of epoch 192. Accuracy: 99.09%.
+End of epoch 193. Accuracy: 99.08%.
+End of epoch 194. Accuracy: 99.13%.
+End of epoch 195. Accuracy: 98.99%.
+End of epoch 196. Accuracy: 99.06%.
+End of epoch 197. Accuracy: 99.07%.
+End of epoch 198. Accuracy: 99.07%.
+End of epoch 199. Accuracy: 99.01%.
+Hidden neuron# 1, node# 0. Intermediate weight: 1.63.
+Hidden neuron# 1, node# 1. Intermediate weight: 0.07.
+Hidden neuron# 1, node# 2. Intermediate weight: -0.95.
+Hidden neuron# 1, node# 3. Intermediate weight: -0.08.
+Hidden neuron# 1, node# 4. Intermediate weight: 1.06.
+Hidden neuron# 1, node# 5. Intermediate weight: 1.16.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.45.
+Hidden neuron# 1, node# 7. Intermediate weight: 0.97.
+Hidden neuron# 1, node# 8. Intermediate weight: 1.01.
+Hidden neuron# 1, node# 9. Intermediate weight: 0.18.
+Hidden neuron# 1, node# 10. Intermediate weight: 1.79.
+Hidden neuron# 1, node# 11. Intermediate weight: -1.07.
+Hidden neuron# 1, node# 12. Intermediate weight: 1.33.
+Hidden neuron# 1, node# 13. Intermediate weight: 0.2.
+Hidden neuron# 1, node# 14. Intermediate weight: 0.01.
+Hidden neuron# 1, node# 15. Intermediate weight: 0.31.
+Hidden neuron# 1, node# 16. Intermediate weight: 0.95.
+Hidden neuron# 1, node# 17. Intermediate weight: 0.4.
+Hidden neuron# 1, node# 18. Intermediate weight: 1.33.
+Hidden neuron# 1, node# 19. Intermediate weight: 0.87.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.97.
+Hidden neuron# 1, node# 21. Intermediate weight: 0.33.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: -4.69.
+Hidden neuron# 2, node# 1. Intermediate weight: -3.86.
+Hidden neuron# 2, node# 2. Intermediate weight: -1.06.
+Hidden neuron# 2, node# 3. Intermediate weight: -13.82.
+Hidden neuron# 2, node# 4. Intermediate weight: -2.76.
+Hidden neuron# 2, node# 5. Intermediate weight: -4.93.
+Hidden neuron# 2, node# 6. Intermediate weight: 14.93.
+Hidden neuron# 2, node# 7. Intermediate weight: -28.54.
+Hidden neuron# 2, node# 8. Intermediate weight: 3.13.
+Hidden neuron# 2, node# 9. Intermediate weight: -4.79.
+Hidden neuron# 2, node# 10. Intermediate weight: 3.89.
+Hidden neuron# 2, node# 11. Intermediate weight: -0.4.
+Hidden neuron# 2, node# 12. Intermediate weight: 0.82.
+Hidden neuron# 2, node# 13. Intermediate weight: 17.01.
+Hidden neuron# 2, node# 14. Intermediate weight: 4.5.
+Hidden neuron# 2, node# 15. Intermediate weight: -3.99.
+Hidden neuron# 2, node# 16. Intermediate weight: -10.25.
+Hidden neuron# 2, node# 17. Intermediate weight: 4.96.
+Hidden neuron# 2, node# 18. Intermediate weight: -9.71.
+Hidden neuron# 2, node# 19. Intermediate weight: 17.25.
+Hidden neuron# 2, node# 20. Intermediate weight: 1.18.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.07.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.18.
+Hidden neuron# 3, node# 1. Intermediate weight: 1.41.
+Hidden neuron# 3, node# 2. Intermediate weight: 0.66.
+Hidden neuron# 3, node# 3. Intermediate weight: -4.85.
+Hidden neuron# 3, node# 4. Intermediate weight: -0.8.
+Hidden neuron# 3, node# 5. Intermediate weight: 1.1.
+Hidden neuron# 3, node# 6. Intermediate weight: -1.91.
+Hidden neuron# 3, node# 7. Intermediate weight: -0.79.
+Hidden neuron# 3, node# 8. Intermediate weight: 1.55.
+Hidden neuron# 3, node# 9. Intermediate weight: -2.85.
+Hidden neuron# 3, node# 10. Intermediate weight: 2.79.
+Hidden neuron# 3, node# 11. Intermediate weight: -2.26.
+Hidden neuron# 3, node# 12. Intermediate weight: 1.55.
+Hidden neuron# 3, node# 13. Intermediate weight: -4.05.
+Hidden neuron# 3, node# 14. Intermediate weight: -3.13.
+Hidden neuron# 3, node# 15. Intermediate weight: 0.74.
+Hidden neuron# 3, node# 16. Intermediate weight: 2.57.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.19.
+Hidden neuron# 3, node# 18. Intermediate weight: 2.98.
+Hidden neuron# 3, node# 19. Intermediate weight: 2.22.
+Hidden neuron# 3, node# 20. Intermediate weight: -3.13.
+Hidden neuron# 3, node# 21. Intermediate weight: -2.75.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 4.85.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.16.
+Hidden neuron# 4, node# 2. Intermediate weight: 4.87.
+Hidden neuron# 4, node# 3. Intermediate weight: 7.12.
+Hidden neuron# 4, node# 4. Intermediate weight: 6.37.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.34.
+Hidden neuron# 4, node# 6. Intermediate weight: 10.06.
+Hidden neuron# 4, node# 7. Intermediate weight: -40.05.
+Hidden neuron# 4, node# 8. Intermediate weight: 2.84.
+Hidden neuron# 4, node# 9. Intermediate weight: 9.65.
+Hidden neuron# 4, node# 10. Intermediate weight: -17.39.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.43.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.91.
+Hidden neuron# 4, node# 13. Intermediate weight: -9.86.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.08.
+Hidden neuron# 4, node# 15. Intermediate weight: 2.65.
+Hidden neuron# 4, node# 16. Intermediate weight: -16.27.
+Hidden neuron# 4, node# 17. Intermediate weight: -7.38.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.83.
+Hidden neuron# 4, node# 19. Intermediate weight: 4.67.
+Hidden neuron# 4, node# 20. Intermediate weight: -9.97.
+Hidden neuron# 4, node# 21. Intermediate weight: -10.93.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -10.93.
+Output neuron, node# 1. Intermediate weight: 15.81.
+Output neuron, node# 2. Intermediate weight: -11.63.
+Output neuron, node# 3. Intermediate weight: 16.12.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 200. Accuracy: 99.06%.
+End of epoch 201. Accuracy: 99.09%.
+End of epoch 202. Accuracy: 99.1%.
+End of epoch 203. Accuracy: 99.06%.
+End of epoch 204. Accuracy: 99.12%.
+End of epoch 205. Accuracy: 99.11%.
+End of epoch 206. Accuracy: 99.05%.
+End of epoch 207. Accuracy: 99.08%.
+End of epoch 208. Accuracy: 98.98%.
+End of epoch 209. Accuracy: 99.05%.
+End of epoch 210. Accuracy: 99.08%.
+End of epoch 211. Accuracy: 99.1%.
+End of epoch 212. Accuracy: 99.2%.
+End of epoch 213. Accuracy: 99.26%.
+End of epoch 214. Accuracy: 99.24%.
+End of epoch 215. Accuracy: 99.29%.
+End of epoch 216. Accuracy: 99.18%.
+End of epoch 217. Accuracy: 99.06%.
+End of epoch 218. Accuracy: 99.15%.
+End of epoch 219. Accuracy: 99.25%.
+End of epoch 220. Accuracy: 99.22%.
+End of epoch 221. Accuracy: 99.19%.
+End of epoch 222. Accuracy: 99.1%.
+End of epoch 223. Accuracy: 99.17%.
+End of epoch 224. Accuracy: 98.94%.
+End of epoch 225. Accuracy: 99.35%.
+End of epoch 226. Accuracy: 99.27%.
+End of epoch 227. Accuracy: 99.3%.
+End of epoch 228. Accuracy: 99.34%.
+End of epoch 229. Accuracy: 99.26%.
+End of epoch 230. Accuracy: 99.35%.
+End of epoch 231. Accuracy: 99.3%.
+End of epoch 232. Accuracy: 99.27%.
+End of epoch 233. Accuracy: 99.27%.
+End of epoch 234. Accuracy: 99.2%.
+End of epoch 235. Accuracy: 99.35%.
+End of epoch 236. Accuracy: 99.33%.
+End of epoch 237. Accuracy: 99.33%.
+End of epoch 238. Accuracy: 99.35%.
+End of epoch 239. Accuracy: 99.26%.
+End of epoch 240. Accuracy: 99.27%.
+End of epoch 241. Accuracy: 99.31%.
+End of epoch 242. Accuracy: 98.97%.
+End of epoch 243. Accuracy: 99.01%.
+End of epoch 244. Accuracy: 98.91%.
+End of epoch 245. Accuracy: 99.27%.
+End of epoch 246. Accuracy: 99.34%.
+End of epoch 247. Accuracy: 99.35%.
+End of epoch 248. Accuracy: 99.32%.
+End of epoch 249. Accuracy: 99.34%.
+End of epoch 250. Accuracy: 99.16%.
+End of epoch 251. Accuracy: 99.34%.
+End of epoch 252. Accuracy: 99.29%.
+End of epoch 253. Accuracy: 99.33%.
+End of epoch 254. Accuracy: 99.21%.
+End of epoch 255. Accuracy: 99.32%.
+End of epoch 256. Accuracy: 99.32%.
+End of epoch 257. Accuracy: 99.33%.
+End of epoch 258. Accuracy: 99.32%.
+End of epoch 259. Accuracy: 99.3%.
+End of epoch 260. Accuracy: 99.32%.
+End of epoch 261. Accuracy: 99.28%.
+End of epoch 262. Accuracy: 99.34%.
+End of epoch 263. Accuracy: 98.84%.
+End of epoch 264. Accuracy: 99.16%.
+End of epoch 265. Accuracy: 99.31%.
+End of epoch 266. Accuracy: 99.27%.
+End of epoch 267. Accuracy: 99.13%.
+End of epoch 268. Accuracy: 99.29%.
+End of epoch 269. Accuracy: 99.27%.
+End of epoch 270. Accuracy: 99.14%.
+End of epoch 271. Accuracy: 99.32%.
+End of epoch 272. Accuracy: 99.08%.
+End of epoch 273. Accuracy: 99.29%.
+End of epoch 274. Accuracy: 99.28%.
+End of epoch 275. Accuracy: 99.16%.
+End of epoch 276. Accuracy: 99.32%.
+End of epoch 277. Accuracy: 99.31%.
+End of epoch 278. Accuracy: 99.25%.
+End of epoch 279. Accuracy: 99.29%.
+End of epoch 280. Accuracy: 99.34%.
+End of epoch 281. Accuracy: 99.29%.
+End of epoch 282. Accuracy: 99.19%.
+End of epoch 283. Accuracy: 99.11%.
+End of epoch 284. Accuracy: 99.24%.
+End of epoch 285. Accuracy: 99.3%.
+End of epoch 286. Accuracy: 99.25%.
+End of epoch 287. Accuracy: 99.23%.
+End of epoch 288. Accuracy: 99.28%.
+End of epoch 289. Accuracy: 99.3%.
+End of epoch 290. Accuracy: 99.31%.
+End of epoch 291. Accuracy: 99.28%.
+End of epoch 292. Accuracy: 99.28%.
+End of epoch 293. Accuracy: 99.24%.
+End of epoch 294. Accuracy: 99.1%.
+End of epoch 295. Accuracy: 99.09%.
+End of epoch 296. Accuracy: 99.27%.
+End of epoch 297. Accuracy: 99.07%.
+End of epoch 298. Accuracy: 99.3%.
+End of epoch 299. Accuracy: 99.28%.
+Hidden neuron# 1, node# 0. Intermediate weight: 2.14.
+Hidden neuron# 1, node# 1. Intermediate weight: -0.17.
+Hidden neuron# 1, node# 2. Intermediate weight: -1.45.
+Hidden neuron# 1, node# 3. Intermediate weight: -0.5.
+Hidden neuron# 1, node# 4. Intermediate weight: 0.96.
+Hidden neuron# 1, node# 5. Intermediate weight: 1.22.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.38.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.63.
+Hidden neuron# 1, node# 8. Intermediate weight: 1.04.
+Hidden neuron# 1, node# 9. Intermediate weight: -0.05.
+Hidden neuron# 1, node# 10. Intermediate weight: 1.97.
+Hidden neuron# 1, node# 11. Intermediate weight: -1.08.
+Hidden neuron# 1, node# 12. Intermediate weight: 1.39.
+Hidden neuron# 1, node# 13. Intermediate weight: 0.1.
+Hidden neuron# 1, node# 14. Intermediate weight: 0.01.
+Hidden neuron# 1, node# 15. Intermediate weight: 0.29.
+Hidden neuron# 1, node# 16. Intermediate weight: 1.12.
+Hidden neuron# 1, node# 17. Intermediate weight: 0.5.
+Hidden neuron# 1, node# 18. Intermediate weight: 1.17.
+Hidden neuron# 1, node# 19. Intermediate weight: 1.03.
+Hidden neuron# 1, node# 20. Intermediate weight: 1.11.
+Hidden neuron# 1, node# 21. Intermediate weight: 0.53.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: -1.29.
+Hidden neuron# 2, node# 1. Intermediate weight: -2.92.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.61.
+Hidden neuron# 2, node# 3. Intermediate weight: -15.25.
+Hidden neuron# 2, node# 4. Intermediate weight: -3.76.
+Hidden neuron# 2, node# 5. Intermediate weight: -7.93.
+Hidden neuron# 2, node# 6. Intermediate weight: 18.63.
+Hidden neuron# 2, node# 7. Intermediate weight: -35.43.
+Hidden neuron# 2, node# 8. Intermediate weight: 2.69.
+Hidden neuron# 2, node# 9. Intermediate weight: -5.56.
+Hidden neuron# 2, node# 10. Intermediate weight: 6.56.
+Hidden neuron# 2, node# 11. Intermediate weight: 4.11.
+Hidden neuron# 2, node# 12. Intermediate weight: 4.28.
+Hidden neuron# 2, node# 13. Intermediate weight: 25.38.
+Hidden neuron# 2, node# 14. Intermediate weight: 7.59.
+Hidden neuron# 2, node# 15. Intermediate weight: -9.18.
+Hidden neuron# 2, node# 16. Intermediate weight: -17.32.
+Hidden neuron# 2, node# 17. Intermediate weight: -0.42.
+Hidden neuron# 2, node# 18. Intermediate weight: -9.94.
+Hidden neuron# 2, node# 19. Intermediate weight: 23.3.
+Hidden neuron# 2, node# 20. Intermediate weight: -4.66.
+Hidden neuron# 2, node# 21. Intermediate weight: 7.38.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 1.41.
+Hidden neuron# 3, node# 1. Intermediate weight: -0.65.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.61.
+Hidden neuron# 3, node# 3. Intermediate weight: -8.48.
+Hidden neuron# 3, node# 4. Intermediate weight: -7.62.
+Hidden neuron# 3, node# 5. Intermediate weight: 1.54.
+Hidden neuron# 3, node# 6. Intermediate weight: 0.64.
+Hidden neuron# 3, node# 7. Intermediate weight: 4.19.
+Hidden neuron# 3, node# 8. Intermediate weight: -2.57.
+Hidden neuron# 3, node# 9. Intermediate weight: -7.11.
+Hidden neuron# 3, node# 10. Intermediate weight: 4.19.
+Hidden neuron# 3, node# 11. Intermediate weight: 3.97.
+Hidden neuron# 3, node# 12. Intermediate weight: 6.39.
+Hidden neuron# 3, node# 13. Intermediate weight: -5.02.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.79.
+Hidden neuron# 3, node# 15. Intermediate weight: 0.73.
+Hidden neuron# 3, node# 16. Intermediate weight: 4.81.
+Hidden neuron# 3, node# 17. Intermediate weight: 0.1.
+Hidden neuron# 3, node# 18. Intermediate weight: 8.93.
+Hidden neuron# 3, node# 19. Intermediate weight: -0.92.
+Hidden neuron# 3, node# 20. Intermediate weight: -7.7.
+Hidden neuron# 3, node# 21. Intermediate weight: -7.96.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 2.33.
+Hidden neuron# 4, node# 1. Intermediate weight: -1.2.
+Hidden neuron# 4, node# 2. Intermediate weight: 1.48.
+Hidden neuron# 4, node# 3. Intermediate weight: 6.87.
+Hidden neuron# 4, node# 4. Intermediate weight: 11.38.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.3.
+Hidden neuron# 4, node# 6. Intermediate weight: 10.63.
+Hidden neuron# 4, node# 7. Intermediate weight: -40.68.
+Hidden neuron# 4, node# 8. Intermediate weight: 3.52.
+Hidden neuron# 4, node# 9. Intermediate weight: 12.23.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.37.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.49.
+Hidden neuron# 4, node# 12. Intermediate weight: 22.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.85.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.45.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.66.
+Hidden neuron# 4, node# 16. Intermediate weight: -16.05.
+Hidden neuron# 4, node# 17. Intermediate weight: -7.91.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.3.
+Hidden neuron# 4, node# 19. Intermediate weight: 4.75.
+Hidden neuron# 4, node# 20. Intermediate weight: -6.79.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.86.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -9.56.
+Output neuron, node# 1. Intermediate weight: 15.14.
+Output neuron, node# 2. Intermediate weight: -14.29.
+Output neuron, node# 3. Intermediate weight: 18.65.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 300. Accuracy: 99.27%.
+End of epoch 301. Accuracy: 99.24%.
+End of epoch 302. Accuracy: 99.15%.
+End of epoch 303. Accuracy: 99.26%.
+End of epoch 304. Accuracy: 99.3%.
+End of epoch 305. Accuracy: 99.31%.
+End of epoch 306. Accuracy: 99.28%.
+End of epoch 307. Accuracy: 99.28%.
+End of epoch 308. Accuracy: 99.3%.
+End of epoch 309. Accuracy: 99.3%.
+End of epoch 310. Accuracy: 99.27%.
+End of epoch 311. Accuracy: 99.28%.
+End of epoch 312. Accuracy: 99.31%.
+End of epoch 313. Accuracy: 99.3%.
+End of epoch 314. Accuracy: 99.3%.
+End of epoch 315. Accuracy: 99.3%.
+End of epoch 316. Accuracy: 99.29%.
+End of epoch 317. Accuracy: 99.24%.
+End of epoch 318. Accuracy: 99.24%.
+End of epoch 319. Accuracy: 99.12%.
+End of epoch 320. Accuracy: 99.22%.
+End of epoch 321. Accuracy: 99.26%.
+End of epoch 322. Accuracy: 99.27%.
+End of epoch 323. Accuracy: 99.22%.
+End of epoch 324. Accuracy: 99.27%.
+End of epoch 325. Accuracy: 99.27%.
+End of epoch 326. Accuracy: 99.29%.
+End of epoch 327. Accuracy: 99.28%.
+End of epoch 328. Accuracy: 99.29%.
+End of epoch 329. Accuracy: 99.27%.
+End of epoch 330. Accuracy: 99.28%.
+End of epoch 331. Accuracy: 99.31%.
+End of epoch 332. Accuracy: 99.32%.
+End of epoch 333. Accuracy: 99.3%.
+End of epoch 334. Accuracy: 99.33%.
+End of epoch 335. Accuracy: 99.17%.
+End of epoch 336. Accuracy: 99.33%.
+End of epoch 337. Accuracy: 99.32%.
+End of epoch 338. Accuracy: 99.28%.
+End of epoch 339. Accuracy: 99.36%.
+End of epoch 340. Accuracy: 99.25%.
+End of epoch 341. Accuracy: 99.35%.
+End of epoch 342. Accuracy: 99.3%.
+End of epoch 343. Accuracy: 99.35%.
+End of epoch 344. Accuracy: 99.31%.
+End of epoch 345. Accuracy: 99.31%.
+End of epoch 346. Accuracy: 99.3%.
+End of epoch 347. Accuracy: 99.32%.
+End of epoch 348. Accuracy: 99.28%.
+End of epoch 349. Accuracy: 99.27%.
+End of epoch 350. Accuracy: 99.31%.
+End of epoch 351. Accuracy: 99.32%.
+End of epoch 352. Accuracy: 99.29%.
+End of epoch 353. Accuracy: 99.34%.
+End of epoch 354. Accuracy: 99.32%.
+End of epoch 355. Accuracy: 99.32%.
+End of epoch 356. Accuracy: 99.34%.
+End of epoch 357. Accuracy: 99.38%.
+End of epoch 358. Accuracy: 99.35%.
+End of epoch 359. Accuracy: 99.33%.
+End of epoch 360. Accuracy: 99.35%.
+End of epoch 361. Accuracy: 99.32%.
+End of epoch 362. Accuracy: 99.34%.
+End of epoch 363. Accuracy: 99.36%.
+End of epoch 364. Accuracy: 99.33%.
+End of epoch 365. Accuracy: 99.36%.
+End of epoch 366. Accuracy: 99.33%.
+End of epoch 367. Accuracy: 99.35%.
+End of epoch 368. Accuracy: 99.36%.
+End of epoch 369. Accuracy: 99.38%.
+End of epoch 370. Accuracy: 99.35%.
+End of epoch 371. Accuracy: 99.39%.
+End of epoch 372. Accuracy: 99.38%.
+End of epoch 373. Accuracy: 99.36%.
+End of epoch 374. Accuracy: 99.36%.
+End of epoch 375. Accuracy: 99.35%.
+End of epoch 376. Accuracy: 99.33%.
+End of epoch 377. Accuracy: 99.36%.
+End of epoch 378. Accuracy: 99.35%.
+End of epoch 379. Accuracy: 99.35%.
+End of epoch 380. Accuracy: 99.33%.
+End of epoch 381. Accuracy: 99.35%.
+End of epoch 382. Accuracy: 99.36%.
+End of epoch 383. Accuracy: 99.33%.
+End of epoch 384. Accuracy: 99.33%.
+End of epoch 385. Accuracy: 99.4%.
+End of epoch 386. Accuracy: 99.4%.
+End of epoch 387. Accuracy: 99.41%.
+End of epoch 388. Accuracy: 99.4%.
+End of epoch 389. Accuracy: 99.4%.
+End of epoch 390. Accuracy: 99.39%.
+End of epoch 391. Accuracy: 99.38%.
+End of epoch 392. Accuracy: 99.38%.
+End of epoch 393. Accuracy: 99.35%.
+End of epoch 394. Accuracy: 99.36%.
+End of epoch 395. Accuracy: 99.36%.
+End of epoch 396. Accuracy: 99.37%.
+End of epoch 397. Accuracy: 99.32%.
+End of epoch 398. Accuracy: 99.35%.
+End of epoch 399. Accuracy: 99.36%.
+Hidden neuron# 1, node# 0. Intermediate weight: 2.03.
+Hidden neuron# 1, node# 1. Intermediate weight: -0.47.
+Hidden neuron# 1, node# 2. Intermediate weight: -2.05.
+Hidden neuron# 1, node# 3. Intermediate weight: -0.59.
+Hidden neuron# 1, node# 4. Intermediate weight: 1.43.
+Hidden neuron# 1, node# 5. Intermediate weight: 1.22.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.56.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.82.
+Hidden neuron# 1, node# 8. Intermediate weight: 1.08.
+Hidden neuron# 1, node# 9. Intermediate weight: -0.15.
+Hidden neuron# 1, node# 10. Intermediate weight: 1.83.
+Hidden neuron# 1, node# 11. Intermediate weight: -1.25.
+Hidden neuron# 1, node# 12. Intermediate weight: 1.41.
+Hidden neuron# 1, node# 13. Intermediate weight: -0.07.
+Hidden neuron# 1, node# 14. Intermediate weight: -0.15.
+Hidden neuron# 1, node# 15. Intermediate weight: 0.26.
+Hidden neuron# 1, node# 16. Intermediate weight: 1.12.
+Hidden neuron# 1, node# 17. Intermediate weight: 0.75.
+Hidden neuron# 1, node# 18. Intermediate weight: 0.97.
+Hidden neuron# 1, node# 19. Intermediate weight: 1.41.
+Hidden neuron# 1, node# 20. Intermediate weight: 1.38.
+Hidden neuron# 1, node# 21. Intermediate weight: 0.64.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 1.57.
+Hidden neuron# 2, node# 1. Intermediate weight: -3.48.
+Hidden neuron# 2, node# 2. Intermediate weight: 1.59.
+Hidden neuron# 2, node# 3. Intermediate weight: -19.51.
+Hidden neuron# 2, node# 4. Intermediate weight: -8.09.
+Hidden neuron# 2, node# 5. Intermediate weight: -10.15.
+Hidden neuron# 2, node# 6. Intermediate weight: 21.51.
+Hidden neuron# 2, node# 7. Intermediate weight: -30.74.
+Hidden neuron# 2, node# 8. Intermediate weight: 5.17.
+Hidden neuron# 2, node# 9. Intermediate weight: -8.64.
+Hidden neuron# 2, node# 10. Intermediate weight: 11.19.
+Hidden neuron# 2, node# 11. Intermediate weight: 10.3.
+Hidden neuron# 2, node# 12. Intermediate weight: 7.39.
+Hidden neuron# 2, node# 13. Intermediate weight: 29.11.
+Hidden neuron# 2, node# 14. Intermediate weight: 12.07.
+Hidden neuron# 2, node# 15. Intermediate weight: -12.89.
+Hidden neuron# 2, node# 16. Intermediate weight: -22.18.
+Hidden neuron# 2, node# 17. Intermediate weight: -7.3.
+Hidden neuron# 2, node# 18. Intermediate weight: -6.26.
+Hidden neuron# 2, node# 19. Intermediate weight: 23.29.
+Hidden neuron# 2, node# 20. Intermediate weight: -8.42.
+Hidden neuron# 2, node# 21. Intermediate weight: 7.66.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -3.22.
+Hidden neuron# 3, node# 1. Intermediate weight: -1.58.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.81.
+Hidden neuron# 3, node# 3. Intermediate weight: -10.41.
+Hidden neuron# 3, node# 4. Intermediate weight: -5.55.
+Hidden neuron# 3, node# 5. Intermediate weight: 1.04.
+Hidden neuron# 3, node# 6. Intermediate weight: 1.74.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.1.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.82.
+Hidden neuron# 3, node# 9. Intermediate weight: -9.18.
+Hidden neuron# 3, node# 10. Intermediate weight: 1.47.
+Hidden neuron# 3, node# 11. Intermediate weight: 3.11.
+Hidden neuron# 3, node# 12. Intermediate weight: 9.43.
+Hidden neuron# 3, node# 13. Intermediate weight: -5.87.
+Hidden neuron# 3, node# 14. Intermediate weight: 4.09.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.19.
+Hidden neuron# 3, node# 16. Intermediate weight: 4.23.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.42.
+Hidden neuron# 3, node# 18. Intermediate weight: 8.87.
+Hidden neuron# 3, node# 19. Intermediate weight: 1.12.
+Hidden neuron# 3, node# 20. Intermediate weight: -10.26.
+Hidden neuron# 3, node# 21. Intermediate weight: -11.93.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.14.
+Hidden neuron# 4, node# 1. Intermediate weight: -1.03.
+Hidden neuron# 4, node# 2. Intermediate weight: 0.95.
+Hidden neuron# 4, node# 3. Intermediate weight: 6.79.
+Hidden neuron# 4, node# 4. Intermediate weight: 11.9.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.26.
+Hidden neuron# 4, node# 6. Intermediate weight: 11.92.
+Hidden neuron# 4, node# 7. Intermediate weight: -41.01.
+Hidden neuron# 4, node# 8. Intermediate weight: 3.79.
+Hidden neuron# 4, node# 9. Intermediate weight: 12.94.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.59.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.16.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.63.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.91.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.2.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.72.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.99.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.34.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.03.
+Hidden neuron# 4, node# 19. Intermediate weight: 4.78.
+Hidden neuron# 4, node# 20. Intermediate weight: -6.53.
+Hidden neuron# 4, node# 21. Intermediate weight: -13.26.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -9.62.
+Output neuron, node# 1. Intermediate weight: 15.65.
+Output neuron, node# 2. Intermediate weight: -15.82.
+Output neuron, node# 3. Intermediate weight: 19.15.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 400. Accuracy: 99.39%.
+End of epoch 401. Accuracy: 99.34%.
+End of epoch 402. Accuracy: 99.37%.
+End of epoch 403. Accuracy: 99.38%.
+End of epoch 404. Accuracy: 99.33%.
+End of epoch 405. Accuracy: 99.36%.
+End of epoch 406. Accuracy: 99.35%.
+End of epoch 407. Accuracy: 99.39%.
+End of epoch 408. Accuracy: 99.36%.
+End of epoch 409. Accuracy: 99.39%.
+End of epoch 410. Accuracy: 99.4%.
+End of epoch 411. Accuracy: 99.4%.
+End of epoch 412. Accuracy: 99.41%.
+End of epoch 413. Accuracy: 99.41%.
+End of epoch 414. Accuracy: 99.38%.
+End of epoch 415. Accuracy: 99.41%.
+End of epoch 416. Accuracy: 99.4%.
+End of epoch 417. Accuracy: 99.39%.
+End of epoch 418. Accuracy: 99.35%.
+End of epoch 419. Accuracy: 99.38%.
+End of epoch 420. Accuracy: 99.33%.
+End of epoch 421. Accuracy: 99.39%.
+End of epoch 422. Accuracy: 99.33%.
+End of epoch 423. Accuracy: 99.35%.
+End of epoch 424. Accuracy: 99.39%.
+End of epoch 425. Accuracy: 99.37%.
+End of epoch 426. Accuracy: 99.34%.
+End of epoch 427. Accuracy: 99.33%.
+End of epoch 428. Accuracy: 99.37%.
+End of epoch 429. Accuracy: 99.38%.
+End of epoch 430. Accuracy: 99.35%.
+End of epoch 431. Accuracy: 99.37%.
+End of epoch 432. Accuracy: 99.36%.
+End of epoch 433. Accuracy: 99.37%.
+End of epoch 434. Accuracy: 99.33%.
+End of epoch 435. Accuracy: 99.36%.
+End of epoch 436. Accuracy: 99.37%.
+End of epoch 437. Accuracy: 99.33%.
+End of epoch 438. Accuracy: 99.34%.
+End of epoch 439. Accuracy: 99.32%.
+End of epoch 440. Accuracy: 99.38%.
+End of epoch 441. Accuracy: 99.36%.
+End of epoch 442. Accuracy: 99.36%.
+End of epoch 443. Accuracy: 99.36%.
+End of epoch 444. Accuracy: 99.36%.
+End of epoch 445. Accuracy: 99.32%.
+End of epoch 446. Accuracy: 99.32%.
+End of epoch 447. Accuracy: 99.34%.
+End of epoch 448. Accuracy: 99.33%.
+End of epoch 449. Accuracy: 99.35%.
+End of epoch 450. Accuracy: 99.34%.
+End of epoch 451. Accuracy: 99.35%.
+End of epoch 452. Accuracy: 99.34%.
+End of epoch 453. Accuracy: 99.33%.
+End of epoch 454. Accuracy: 99.38%.
+End of epoch 455. Accuracy: 99.4%.
+End of epoch 456. Accuracy: 99.38%.
+End of epoch 457. Accuracy: 99.38%.
+End of epoch 458. Accuracy: 99.33%.
+End of epoch 459. Accuracy: 99.38%.
+End of epoch 460. Accuracy: 99.33%.
+End of epoch 461. Accuracy: 99.34%.
+End of epoch 462. Accuracy: 99.34%.
+End of epoch 463. Accuracy: 99.4%.
+End of epoch 464. Accuracy: 99.3%.
+End of epoch 465. Accuracy: 99.35%.
+End of epoch 466. Accuracy: 99.34%.
+End of epoch 467. Accuracy: 99.37%.
+End of epoch 468. Accuracy: 99.33%.
+End of epoch 469. Accuracy: 99.35%.
+End of epoch 470. Accuracy: 99.39%.
+End of epoch 471. Accuracy: 99.34%.
+End of epoch 472. Accuracy: 99.34%.
+End of epoch 473. Accuracy: 99.35%.
+End of epoch 474. Accuracy: 99.34%.
+End of epoch 475. Accuracy: 99.39%.
+End of epoch 476. Accuracy: 99.34%.
+End of epoch 477. Accuracy: 99.32%.
+End of epoch 478. Accuracy: 99.39%.
+End of epoch 479. Accuracy: 99.4%.
+End of epoch 480. Accuracy: 99.36%.
+End of epoch 481. Accuracy: 99.36%.
+End of epoch 482. Accuracy: 99.35%.
+End of epoch 483. Accuracy: 99.33%.
+End of epoch 484. Accuracy: 99.39%.
+End of epoch 485. Accuracy: 99.36%.
+End of epoch 486. Accuracy: 99.35%.
+End of epoch 487. Accuracy: 99.38%.
+End of epoch 488. Accuracy: 99.38%.
+End of epoch 489. Accuracy: 99.35%.
+End of epoch 490. Accuracy: 99.33%.
+End of epoch 491. Accuracy: 99.39%.
+End of epoch 492. Accuracy: 99.4%.
+End of epoch 493. Accuracy: 99.35%.
+End of epoch 494. Accuracy: 99.35%.
+End of epoch 495. Accuracy: 99.4%.
+End of epoch 496. Accuracy: 99.33%.
+End of epoch 497. Accuracy: 99.38%.
+End of epoch 498. Accuracy: 99.34%.
+End of epoch 499. Accuracy: 99.37%.
+Hidden neuron# 1, node# 0. Intermediate weight: 3.53.
+Hidden neuron# 1, node# 1. Intermediate weight: -1.72.
+Hidden neuron# 1, node# 2. Intermediate weight: -3.97.
+Hidden neuron# 1, node# 3. Intermediate weight: -1.04.
+Hidden neuron# 1, node# 4. Intermediate weight: 1.82.
+Hidden neuron# 1, node# 5. Intermediate weight: 1.11.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.92.
+Hidden neuron# 1, node# 7. Intermediate weight: 2.32.
+Hidden neuron# 1, node# 8. Intermediate weight: 1.34.
+Hidden neuron# 1, node# 9. Intermediate weight: -0.31.
+Hidden neuron# 1, node# 10. Intermediate weight: 1.59.
+Hidden neuron# 1, node# 11. Intermediate weight: -1.78.
+Hidden neuron# 1, node# 12. Intermediate weight: 0.99.
+Hidden neuron# 1, node# 13. Intermediate weight: -0.61.
+Hidden neuron# 1, node# 14. Intermediate weight: -0.66.
+Hidden neuron# 1, node# 15. Intermediate weight: 0.08.
+Hidden neuron# 1, node# 16. Intermediate weight: 0.9.
+Hidden neuron# 1, node# 17. Intermediate weight: 1.76.
+Hidden neuron# 1, node# 18. Intermediate weight: 0.64.
+Hidden neuron# 1, node# 19. Intermediate weight: 2.41.
+Hidden neuron# 1, node# 20. Intermediate weight: 2.01.
+Hidden neuron# 1, node# 21. Intermediate weight: 1.36.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 1.18.
+Hidden neuron# 2, node# 1. Intermediate weight: -1.86.
+Hidden neuron# 2, node# 2. Intermediate weight: 1.35.
+Hidden neuron# 2, node# 3. Intermediate weight: -22.77.
+Hidden neuron# 2, node# 4. Intermediate weight: -9.36.
+Hidden neuron# 2, node# 5. Intermediate weight: -10.8.
+Hidden neuron# 2, node# 6. Intermediate weight: 23.58.
+Hidden neuron# 2, node# 7. Intermediate weight: -31.56.
+Hidden neuron# 2, node# 8. Intermediate weight: 4.45.
+Hidden neuron# 2, node# 9. Intermediate weight: -10.8.
+Hidden neuron# 2, node# 10. Intermediate weight: 13.13.
+Hidden neuron# 2, node# 11. Intermediate weight: 12.57.
+Hidden neuron# 2, node# 12. Intermediate weight: 9.55.
+Hidden neuron# 2, node# 13. Intermediate weight: 31.33.
+Hidden neuron# 2, node# 14. Intermediate weight: 13.79.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.
+Hidden neuron# 2, node# 16. Intermediate weight: -23.6.
+Hidden neuron# 2, node# 17. Intermediate weight: -12.98.
+Hidden neuron# 2, node# 18. Intermediate weight: -4.7.
+Hidden neuron# 2, node# 19. Intermediate weight: 22.86.
+Hidden neuron# 2, node# 20. Intermediate weight: -10.03.
+Hidden neuron# 2, node# 21. Intermediate weight: 8.29.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -3.
+Hidden neuron# 3, node# 1. Intermediate weight: -1.36.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.62.
+Hidden neuron# 3, node# 3. Intermediate weight: -10.59.
+Hidden neuron# 3, node# 4. Intermediate weight: -5.58.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.98.
+Hidden neuron# 3, node# 6. Intermediate weight: 2.06.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.32.
+Hidden neuron# 3, node# 8. Intermediate weight: 1.34.
+Hidden neuron# 3, node# 9. Intermediate weight: -9.3.
+Hidden neuron# 3, node# 10. Intermediate weight: 1.15.
+Hidden neuron# 3, node# 11. Intermediate weight: 2.87.
+Hidden neuron# 3, node# 12. Intermediate weight: 9.57.
+Hidden neuron# 3, node# 13. Intermediate weight: -6.1.
+Hidden neuron# 3, node# 14. Intermediate weight: 3.92.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.24.
+Hidden neuron# 3, node# 16. Intermediate weight: 4.16.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.44.
+Hidden neuron# 3, node# 18. Intermediate weight: 8.61.
+Hidden neuron# 3, node# 19. Intermediate weight: 1.6.
+Hidden neuron# 3, node# 20. Intermediate weight: -10.64.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.54.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.25.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.58.
+Hidden neuron# 4, node# 2. Intermediate weight: 0.75.
+Hidden neuron# 4, node# 3. Intermediate weight: 7.
+Hidden neuron# 4, node# 4. Intermediate weight: 11.92.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.27.
+Hidden neuron# 4, node# 6. Intermediate weight: 12.16.
+Hidden neuron# 4, node# 7. Intermediate weight: -41.13.
+Hidden neuron# 4, node# 8. Intermediate weight: 3.09.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.56.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.6.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.12.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.59.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.8.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.43.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.7.
+Hidden neuron# 4, node# 16. Intermediate weight: -16.01.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.77.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.06.
+Hidden neuron# 4, node# 19. Intermediate weight: 4.44.
+Hidden neuron# 4, node# 20. Intermediate weight: -6.69.
+Hidden neuron# 4, node# 21. Intermediate weight: -13.11.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -9.79.
+Output neuron, node# 1. Intermediate weight: 15.47.
+Output neuron, node# 2. Intermediate weight: -16.28.
+Output neuron, node# 3. Intermediate weight: 19.41.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 500. Accuracy: 99.35%.
+End of epoch 501. Accuracy: 99.35%.
+End of epoch 502. Accuracy: 99.34%.
+End of epoch 503. Accuracy: 99.38%.
+End of epoch 504. Accuracy: 99.36%.
+End of epoch 505. Accuracy: 99.37%.
+End of epoch 506. Accuracy: 99.36%.
+End of epoch 507. Accuracy: 99.38%.
+End of epoch 508. Accuracy: 99.37%.
+End of epoch 509. Accuracy: 99.35%.
+End of epoch 510. Accuracy: 99.33%.
+End of epoch 511. Accuracy: 99.37%.
+End of epoch 512. Accuracy: 99.36%.
+End of epoch 513. Accuracy: 99.35%.
+End of epoch 514. Accuracy: 99.35%.
+End of epoch 515. Accuracy: 99.35%.
+End of epoch 516. Accuracy: 99.39%.
+End of epoch 517. Accuracy: 99.34%.
+End of epoch 518. Accuracy: 99.4%.
+End of epoch 519. Accuracy: 99.36%.
+End of epoch 520. Accuracy: 99.39%.
+End of epoch 521. Accuracy: 99.38%.
+End of epoch 522. Accuracy: 99.37%.
+End of epoch 523. Accuracy: 99.4%.
+End of epoch 524. Accuracy: 99.39%.
+End of epoch 525. Accuracy: 99.34%.
+End of epoch 526. Accuracy: 99.4%.
+End of epoch 527. Accuracy: 99.35%.
+End of epoch 528. Accuracy: 99.41%.
+End of epoch 529. Accuracy: 99.37%.
+End of epoch 530. Accuracy: 99.39%.
+End of epoch 531. Accuracy: 99.4%.
+End of epoch 532. Accuracy: 99.4%.
+End of epoch 533. Accuracy: 99.39%.
+End of epoch 534. Accuracy: 99.41%.
+End of epoch 535. Accuracy: 99.41%.
+End of epoch 536. Accuracy: 99.39%.
+End of epoch 537. Accuracy: 99.38%.
+End of epoch 538. Accuracy: 99.4%.
+End of epoch 539. Accuracy: 99.41%.
+End of epoch 540. Accuracy: 99.4%.
+End of epoch 541. Accuracy: 99.4%.
+End of epoch 542. Accuracy: 99.39%.
+End of epoch 543. Accuracy: 99.39%.
+End of epoch 544. Accuracy: 99.41%.
+End of epoch 545. Accuracy: 99.4%.
+End of epoch 546. Accuracy: 99.39%.
+End of epoch 547. Accuracy: 99.4%.
+End of epoch 548. Accuracy: 99.41%.
+End of epoch 549. Accuracy: 99.37%.
+End of epoch 550. Accuracy: 99.4%.
+End of epoch 551. Accuracy: 99.41%.
+End of epoch 552. Accuracy: 99.4%.
+End of epoch 553. Accuracy: 99.41%.
+End of epoch 554. Accuracy: 99.4%.
+End of epoch 555. Accuracy: 99.41%.
+End of epoch 556. Accuracy: 99.39%.
+End of epoch 557. Accuracy: 99.43%.
+End of epoch 558. Accuracy: 99.49%.
+End of epoch 559. Accuracy: 99.5%.
+End of epoch 560. Accuracy: 99.63%.
+End of epoch 561. Accuracy: 99.62%.
+End of epoch 562. Accuracy: 99.59%.
+End of epoch 563. Accuracy: 99.7%.
+End of epoch 564. Accuracy: 99.69%.
+End of epoch 565. Accuracy: 99.71%.
+End of epoch 566. Accuracy: 99.72%.
+End of epoch 567. Accuracy: 99.73%.
+End of epoch 568. Accuracy: 99.73%.
+End of epoch 569. Accuracy: 99.73%.
+End of epoch 570. Accuracy: 99.66%.
+End of epoch 571. Accuracy: 99.74%.
+End of epoch 572. Accuracy: 99.72%.
+End of epoch 573. Accuracy: 99.73%.
+End of epoch 574. Accuracy: 99.74%.
+End of epoch 575. Accuracy: 99.71%.
+End of epoch 576. Accuracy: 99.74%.
+End of epoch 577. Accuracy: 99.73%.
+End of epoch 578. Accuracy: 99.74%.
+End of epoch 579. Accuracy: 99.75%.
+End of epoch 580. Accuracy: 99.74%.
+End of epoch 581. Accuracy: 99.75%.
+End of epoch 582. Accuracy: 99.75%.
+End of epoch 583. Accuracy: 99.74%.
+End of epoch 584. Accuracy: 99.7%.
+End of epoch 585. Accuracy: 99.75%.
+End of epoch 586. Accuracy: 99.75%.
+End of epoch 587. Accuracy: 99.75%.
+End of epoch 588. Accuracy: 99.75%.
+End of epoch 589. Accuracy: 99.74%.
+End of epoch 590. Accuracy: 99.75%.
+End of epoch 591. Accuracy: 99.7%.
+End of epoch 592. Accuracy: 99.75%.
+End of epoch 593. Accuracy: 99.75%.
+End of epoch 594. Accuracy: 99.76%.
+End of epoch 595. Accuracy: 99.76%.
+End of epoch 596. Accuracy: 99.71%.
+End of epoch 597. Accuracy: 99.72%.
+End of epoch 598. Accuracy: 99.75%.
+End of epoch 599. Accuracy: 99.76%.
+Hidden neuron# 1, node# 0. Intermediate weight: 2.48.
+Hidden neuron# 1, node# 1. Intermediate weight: -4.58.
+Hidden neuron# 1, node# 2. Intermediate weight: -5.5.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.01.
+Hidden neuron# 1, node# 4. Intermediate weight: -1.02.
+Hidden neuron# 1, node# 5. Intermediate weight: 0.71.
+Hidden neuron# 1, node# 6. Intermediate weight: -0.82.
+Hidden neuron# 1, node# 7. Intermediate weight: -1.86.
+Hidden neuron# 1, node# 8. Intermediate weight: -0.92.
+Hidden neuron# 1, node# 9. Intermediate weight: 4.13.
+Hidden neuron# 1, node# 10. Intermediate weight: 7.95.
+Hidden neuron# 1, node# 11. Intermediate weight: -5.52.
+Hidden neuron# 1, node# 12. Intermediate weight: 6.77.
+Hidden neuron# 1, node# 13. Intermediate weight: -4.53.
+Hidden neuron# 1, node# 14. Intermediate weight: -4.46.
+Hidden neuron# 1, node# 15. Intermediate weight: -0.58.
+Hidden neuron# 1, node# 16. Intermediate weight: 0.06.
+Hidden neuron# 1, node# 17. Intermediate weight: 2.8.
+Hidden neuron# 1, node# 18. Intermediate weight: 4.89.
+Hidden neuron# 1, node# 19. Intermediate weight: 7.69.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.41.
+Hidden neuron# 1, node# 21. Intermediate weight: 4.59.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 1.57.
+Hidden neuron# 2, node# 1. Intermediate weight: -2.2.
+Hidden neuron# 2, node# 2. Intermediate weight: 1.24.
+Hidden neuron# 2, node# 3. Intermediate weight: -24.9.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.43.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.14.
+Hidden neuron# 2, node# 6. Intermediate weight: 25.63.
+Hidden neuron# 2, node# 7. Intermediate weight: -33.4.
+Hidden neuron# 2, node# 8. Intermediate weight: 6.53.
+Hidden neuron# 2, node# 9. Intermediate weight: -10.75.
+Hidden neuron# 2, node# 10. Intermediate weight: 14.41.
+Hidden neuron# 2, node# 11. Intermediate weight: 14.37.
+Hidden neuron# 2, node# 12. Intermediate weight: 10.74.
+Hidden neuron# 2, node# 13. Intermediate weight: 32.5.
+Hidden neuron# 2, node# 14. Intermediate weight: 14.59.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.58.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.34.
+Hidden neuron# 2, node# 17. Intermediate weight: -17.64.
+Hidden neuron# 2, node# 18. Intermediate weight: -3.55.
+Hidden neuron# 2, node# 19. Intermediate weight: 21.89.
+Hidden neuron# 2, node# 20. Intermediate weight: -10.04.
+Hidden neuron# 2, node# 21. Intermediate weight: 9.82.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -1.55.
+Hidden neuron# 3, node# 1. Intermediate weight: -2.8.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.59.
+Hidden neuron# 3, node# 3. Intermediate weight: -10.22.
+Hidden neuron# 3, node# 4. Intermediate weight: -7.49.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.76.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.16.
+Hidden neuron# 3, node# 7. Intermediate weight: 9.72.
+Hidden neuron# 3, node# 8. Intermediate weight: 1.27.
+Hidden neuron# 3, node# 9. Intermediate weight: -9.58.
+Hidden neuron# 3, node# 10. Intermediate weight: 2.92.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.86.
+Hidden neuron# 3, node# 12. Intermediate weight: 12.53.
+Hidden neuron# 3, node# 13. Intermediate weight: -6.89.
+Hidden neuron# 3, node# 14. Intermediate weight: 3.28.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.6.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.71.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.75.
+Hidden neuron# 3, node# 18. Intermediate weight: 10.07.
+Hidden neuron# 3, node# 19. Intermediate weight: 3.17.
+Hidden neuron# 3, node# 20. Intermediate weight: -12.18.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.65.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.16.
+Hidden neuron# 4, node# 1. Intermediate weight: -1.06.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.92.
+Hidden neuron# 4, node# 3. Intermediate weight: 8.39.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.45.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.2.
+Hidden neuron# 4, node# 6. Intermediate weight: 12.54.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.01.
+Hidden neuron# 4, node# 8. Intermediate weight: 2.91.
+Hidden neuron# 4, node# 9. Intermediate weight: 12.77.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.7.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.23.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.7.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.36.
+Hidden neuron# 4, node# 14. Intermediate weight: -8.21.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.82.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.86.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.44.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.1.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.25.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.7.
+Hidden neuron# 4, node# 21. Intermediate weight: -11.71.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -8.63.
+Output neuron, node# 1. Intermediate weight: 15.18.
+Output neuron, node# 2. Intermediate weight: -17.83.
+Output neuron, node# 3. Intermediate weight: 19.88.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 600. Accuracy: 99.76%.
+End of epoch 601. Accuracy: 99.76%.
+End of epoch 602. Accuracy: 99.76%.
+End of epoch 603. Accuracy: 99.73%.
+End of epoch 604. Accuracy: 99.73%.
+End of epoch 605. Accuracy: 99.76%.
+End of epoch 606. Accuracy: 99.76%.
+End of epoch 607. Accuracy: 99.75%.
+End of epoch 608. Accuracy: 99.76%.
+End of epoch 609. Accuracy: 99.76%.
+End of epoch 610. Accuracy: 99.75%.
+End of epoch 611. Accuracy: 99.7%.
+End of epoch 612. Accuracy: 99.76%.
+End of epoch 613. Accuracy: 99.74%.
+End of epoch 614. Accuracy: 99.76%.
+End of epoch 615. Accuracy: 99.76%.
+End of epoch 616. Accuracy: 99.74%.
+End of epoch 617. Accuracy: 99.76%.
+End of epoch 618. Accuracy: 99.76%.
+End of epoch 619. Accuracy: 99.72%.
+End of epoch 620. Accuracy: 99.75%.
+End of epoch 621. Accuracy: 99.76%.
+End of epoch 622. Accuracy: 99.75%.
+End of epoch 623. Accuracy: 99.73%.
+End of epoch 624. Accuracy: 99.75%.
+End of epoch 625. Accuracy: 99.76%.
+End of epoch 626. Accuracy: 99.76%.
+End of epoch 627. Accuracy: 99.76%.
+End of epoch 628. Accuracy: 99.75%.
+End of epoch 629. Accuracy: 99.75%.
+End of epoch 630. Accuracy: 99.76%.
+End of epoch 631. Accuracy: 99.76%.
+End of epoch 632. Accuracy: 99.73%.
+End of epoch 633. Accuracy: 99.75%.
+End of epoch 634. Accuracy: 99.76%.
+End of epoch 635. Accuracy: 99.76%.
+End of epoch 636. Accuracy: 99.75%.
+End of epoch 637. Accuracy: 99.76%.
+End of epoch 638. Accuracy: 99.76%.
+End of epoch 639. Accuracy: 99.76%.
+End of epoch 640. Accuracy: 99.76%.
+End of epoch 641. Accuracy: 99.76%.
+End of epoch 642. Accuracy: 99.74%.
+End of epoch 643. Accuracy: 99.73%.
+End of epoch 644. Accuracy: 99.74%.
+End of epoch 645. Accuracy: 99.75%.
+End of epoch 646. Accuracy: 99.76%.
+End of epoch 647. Accuracy: 99.76%.
+End of epoch 648. Accuracy: 99.75%.
+End of epoch 649. Accuracy: 99.75%.
+End of epoch 650. Accuracy: 99.76%.
+End of epoch 651. Accuracy: 99.76%.
+End of epoch 652. Accuracy: 99.73%.
+End of epoch 653. Accuracy: 99.76%.
+End of epoch 654. Accuracy: 99.76%.
+End of epoch 655. Accuracy: 99.75%.
+End of epoch 656. Accuracy: 99.75%.
+End of epoch 657. Accuracy: 99.75%.
+End of epoch 658. Accuracy: 99.77%.
+End of epoch 659. Accuracy: 99.75%.
+End of epoch 660. Accuracy: 99.76%.
+End of epoch 661. Accuracy: 99.73%.
+End of epoch 662. Accuracy: 99.74%.
+End of epoch 663. Accuracy: 99.75%.
+End of epoch 664. Accuracy: 99.76%.
+End of epoch 665. Accuracy: 99.77%.
+End of epoch 666. Accuracy: 99.75%.
+End of epoch 667. Accuracy: 99.76%.
+End of epoch 668. Accuracy: 99.75%.
+End of epoch 669. Accuracy: 99.76%.
+End of epoch 670. Accuracy: 99.77%.
+End of epoch 671. Accuracy: 99.75%.
+End of epoch 672. Accuracy: 99.75%.
+End of epoch 673. Accuracy: 99.73%.
+End of epoch 674. Accuracy: 99.75%.
+End of epoch 675. Accuracy: 99.75%.
+End of epoch 676. Accuracy: 99.76%.
+End of epoch 677. Accuracy: 99.76%.
+End of epoch 678. Accuracy: 99.76%.
+End of epoch 679. Accuracy: 99.75%.
+End of epoch 680. Accuracy: 99.75%.
+End of epoch 681. Accuracy: 99.76%.
+End of epoch 682. Accuracy: 99.75%.
+End of epoch 683. Accuracy: 99.75%.
+End of epoch 684. Accuracy: 99.76%.
+End of epoch 685. Accuracy: 99.76%.
+End of epoch 686. Accuracy: 99.76%.
+End of epoch 687. Accuracy: 99.76%.
+End of epoch 688. Accuracy: 99.77%.
+End of epoch 689. Accuracy: 99.75%.
+End of epoch 690. Accuracy: 99.77%.
+End of epoch 691. Accuracy: 99.75%.
+End of epoch 692. Accuracy: 99.76%.
+End of epoch 693. Accuracy: 99.75%.
+End of epoch 694. Accuracy: 99.75%.
+End of epoch 695. Accuracy: 99.76%.
+End of epoch 696. Accuracy: 99.74%.
+End of epoch 697. Accuracy: 99.74%.
+End of epoch 698. Accuracy: 99.76%.
+End of epoch 699. Accuracy: 99.76%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.57.
+Hidden neuron# 1, node# 1. Intermediate weight: -4.28.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.52.
+Hidden neuron# 1, node# 3. Intermediate weight: 1.63.
+Hidden neuron# 1, node# 4. Intermediate weight: -1.43.
+Hidden neuron# 1, node# 5. Intermediate weight: 0.38.
+Hidden neuron# 1, node# 6. Intermediate weight: -1.4.
+Hidden neuron# 1, node# 7. Intermediate weight: -0.48.
+Hidden neuron# 1, node# 8. Intermediate weight: 0.36.
+Hidden neuron# 1, node# 9. Intermediate weight: 5.84.
+Hidden neuron# 1, node# 10. Intermediate weight: 10.72.
+Hidden neuron# 1, node# 11. Intermediate weight: -7.71.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.15.
+Hidden neuron# 1, node# 13. Intermediate weight: -6.72.
+Hidden neuron# 1, node# 14. Intermediate weight: -6.61.
+Hidden neuron# 1, node# 15. Intermediate weight: -1.13.
+Hidden neuron# 1, node# 16. Intermediate weight: -0.62.
+Hidden neuron# 1, node# 17. Intermediate weight: 3.12.
+Hidden neuron# 1, node# 18. Intermediate weight: 5.9.
+Hidden neuron# 1, node# 19. Intermediate weight: 10.9.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.04.
+Hidden neuron# 1, node# 21. Intermediate weight: 5.58.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.42.
+Hidden neuron# 2, node# 1. Intermediate weight: -2.31.
+Hidden neuron# 2, node# 2. Intermediate weight: 1.25.
+Hidden neuron# 2, node# 3. Intermediate weight: -25.03.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.38.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.35.
+Hidden neuron# 2, node# 6. Intermediate weight: 28.23.
+Hidden neuron# 2, node# 7. Intermediate weight: -34.63.
+Hidden neuron# 2, node# 8. Intermediate weight: 5.94.
+Hidden neuron# 2, node# 9. Intermediate weight: -11.03.
+Hidden neuron# 2, node# 10. Intermediate weight: 15.76.
+Hidden neuron# 2, node# 11. Intermediate weight: 16.01.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.21.
+Hidden neuron# 2, node# 13. Intermediate weight: 33.81.
+Hidden neuron# 2, node# 14. Intermediate weight: 15.83.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.94.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.8.
+Hidden neuron# 2, node# 17. Intermediate weight: -21.19.
+Hidden neuron# 2, node# 18. Intermediate weight: -2.09.
+Hidden neuron# 2, node# 19. Intermediate weight: 21.42.
+Hidden neuron# 2, node# 20. Intermediate weight: -9.37.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.09.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.67.
+Hidden neuron# 3, node# 1. Intermediate weight: -3.54.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.65.
+Hidden neuron# 3, node# 3. Intermediate weight: -10.49.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.37.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.67.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.27.
+Hidden neuron# 3, node# 7. Intermediate weight: 9.82.
+Hidden neuron# 3, node# 8. Intermediate weight: 1.05.
+Hidden neuron# 3, node# 9. Intermediate weight: -9.83.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.42.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.53.
+Hidden neuron# 3, node# 12. Intermediate weight: 13.71.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.13.
+Hidden neuron# 3, node# 14. Intermediate weight: 3.07.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.75.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.53.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.87.
+Hidden neuron# 3, node# 18. Intermediate weight: 10.81.
+Hidden neuron# 3, node# 19. Intermediate weight: 3.61.
+Hidden neuron# 3, node# 20. Intermediate weight: -12.63.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.82.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.28.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.91.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.9.
+Hidden neuron# 4, node# 3. Intermediate weight: 8.55.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.59.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.21.
+Hidden neuron# 4, node# 6. Intermediate weight: 12.79.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.01.
+Hidden neuron# 4, node# 8. Intermediate weight: 2.62.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.23.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.58.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.2.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.68.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.3.
+Hidden neuron# 4, node# 14. Intermediate weight: -8.15.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.8.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.89.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.7.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.98.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.1.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.4.
+Hidden neuron# 4, node# 21. Intermediate weight: -11.92.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -9.9.
+Output neuron, node# 1. Intermediate weight: 17.17.
+Output neuron, node# 2. Intermediate weight: -18.66.
+Output neuron, node# 3. Intermediate weight: 20.12.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 700. Accuracy: 99.77%.
+End of epoch 701. Accuracy: 99.75%.
+End of epoch 702. Accuracy: 99.74%.
+End of epoch 703. Accuracy: 99.76%.
+End of epoch 704. Accuracy: 99.75%.
+End of epoch 705. Accuracy: 99.75%.
+End of epoch 706. Accuracy: 99.75%.
+End of epoch 707. Accuracy: 99.75%.
+End of epoch 708. Accuracy: 99.77%.
+End of epoch 709. Accuracy: 99.75%.
+End of epoch 710. Accuracy: 99.75%.
+End of epoch 711. Accuracy: 99.75%.
+End of epoch 712. Accuracy: 99.75%.
+End of epoch 713. Accuracy: 99.75%.
+End of epoch 714. Accuracy: 99.75%.
+End of epoch 715. Accuracy: 99.75%.
+End of epoch 716. Accuracy: 99.75%.
+End of epoch 717. Accuracy: 99.75%.
+End of epoch 718. Accuracy: 99.75%.
+End of epoch 719. Accuracy: 99.75%.
+End of epoch 720. Accuracy: 99.75%.
+End of epoch 721. Accuracy: 99.76%.
+End of epoch 722. Accuracy: 99.73%.
+End of epoch 723. Accuracy: 99.77%.
+End of epoch 724. Accuracy: 99.75%.
+End of epoch 725. Accuracy: 99.75%.
+End of epoch 726. Accuracy: 99.75%.
+End of epoch 727. Accuracy: 99.77%.
+End of epoch 728. Accuracy: 99.74%.
+End of epoch 729. Accuracy: 99.74%.
+End of epoch 730. Accuracy: 99.75%.
+End of epoch 731. Accuracy: 99.75%.
+End of epoch 732. Accuracy: 99.76%.
+End of epoch 733. Accuracy: 99.76%.
+End of epoch 734. Accuracy: 99.75%.
+End of epoch 735. Accuracy: 99.76%.
+End of epoch 736. Accuracy: 99.76%.
+End of epoch 737. Accuracy: 99.75%.
+End of epoch 738. Accuracy: 99.77%.
+End of epoch 739. Accuracy: 99.75%.
+End of epoch 740. Accuracy: 99.76%.
+End of epoch 741. Accuracy: 99.72%.
+End of epoch 742. Accuracy: 99.73%.
+End of epoch 743. Accuracy: 99.75%.
+End of epoch 744. Accuracy: 99.76%.
+End of epoch 745. Accuracy: 99.73%.
+End of epoch 746. Accuracy: 99.77%.
+End of epoch 747. Accuracy: 99.75%.
+End of epoch 748. Accuracy: 99.74%.
+End of epoch 749. Accuracy: 99.77%.
+End of epoch 750. Accuracy: 99.75%.
+End of epoch 751. Accuracy: 99.77%.
+End of epoch 752. Accuracy: 99.76%.
+End of epoch 753. Accuracy: 99.75%.
+End of epoch 754. Accuracy: 99.77%.
+End of epoch 755. Accuracy: 99.75%.
+End of epoch 756. Accuracy: 99.75%.
+End of epoch 757. Accuracy: 99.76%.
+End of epoch 758. Accuracy: 99.76%.
+End of epoch 759. Accuracy: 99.75%.
+End of epoch 760. Accuracy: 99.74%.
+End of epoch 761. Accuracy: 99.75%.
+End of epoch 762. Accuracy: 99.75%.
+End of epoch 763. Accuracy: 99.76%.
+End of epoch 764. Accuracy: 99.75%.
+End of epoch 765. Accuracy: 99.77%.
+End of epoch 766. Accuracy: 99.75%.
+End of epoch 767. Accuracy: 99.77%.
+End of epoch 768. Accuracy: 99.75%.
+End of epoch 769. Accuracy: 99.75%.
+End of epoch 770. Accuracy: 99.75%.
+End of epoch 771. Accuracy: 99.75%.
+End of epoch 772. Accuracy: 99.76%.
+End of epoch 773. Accuracy: 99.76%.
+End of epoch 774. Accuracy: 99.76%.
+End of epoch 775. Accuracy: 99.76%.
+End of epoch 776. Accuracy: 99.76%.
+End of epoch 777. Accuracy: 99.76%.
+End of epoch 778. Accuracy: 99.76%.
+End of epoch 779. Accuracy: 99.76%.
+End of epoch 780. Accuracy: 99.76%.
+End of epoch 781. Accuracy: 99.76%.
+End of epoch 782. Accuracy: 99.74%.
+End of epoch 783. Accuracy: 99.75%.
+End of epoch 784. Accuracy: 99.74%.
+End of epoch 785. Accuracy: 99.76%.
+End of epoch 786. Accuracy: 99.75%.
+End of epoch 787. Accuracy: 99.75%.
+End of epoch 788. Accuracy: 99.76%.
+End of epoch 789. Accuracy: 99.75%.
+End of epoch 790. Accuracy: 99.76%.
+End of epoch 791. Accuracy: 99.75%.
+End of epoch 792. Accuracy: 99.76%.
+End of epoch 793. Accuracy: 99.76%.
+End of epoch 794. Accuracy: 99.71%.
+End of epoch 795. Accuracy: 99.77%.
+End of epoch 796. Accuracy: 99.76%.
+End of epoch 797. Accuracy: 99.72%.
+End of epoch 798. Accuracy: 99.77%.
+End of epoch 799. Accuracy: 99.76%.
+Hidden neuron# 1, node# 0. Intermediate weight: 5.07.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.77.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.86.
+Hidden neuron# 1, node# 3. Intermediate weight: 1.74.
+Hidden neuron# 1, node# 4. Intermediate weight: -1.69.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.01.
+Hidden neuron# 1, node# 6. Intermediate weight: -1.81.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.03.
+Hidden neuron# 1, node# 8. Intermediate weight: 1.42.
+Hidden neuron# 1, node# 9. Intermediate weight: 6.87.
+Hidden neuron# 1, node# 10. Intermediate weight: 13.
+Hidden neuron# 1, node# 11. Intermediate weight: -9.43.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.58.
+Hidden neuron# 1, node# 13. Intermediate weight: -8.49.
+Hidden neuron# 1, node# 14. Intermediate weight: -8.34.
+Hidden neuron# 1, node# 15. Intermediate weight: -1.78.
+Hidden neuron# 1, node# 16. Intermediate weight: -1.45.
+Hidden neuron# 1, node# 17. Intermediate weight: 4.14.
+Hidden neuron# 1, node# 18. Intermediate weight: 6.92.
+Hidden neuron# 1, node# 19. Intermediate weight: 13.69.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.07.
+Hidden neuron# 1, node# 21. Intermediate weight: 4.25.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.8.
+Hidden neuron# 2, node# 1. Intermediate weight: -1.5.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.73.
+Hidden neuron# 2, node# 3. Intermediate weight: -26.02.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.23.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.5.
+Hidden neuron# 2, node# 6. Intermediate weight: 29.69.
+Hidden neuron# 2, node# 7. Intermediate weight: -34.12.
+Hidden neuron# 2, node# 8. Intermediate weight: 5.88.
+Hidden neuron# 2, node# 9. Intermediate weight: -13.26.
+Hidden neuron# 2, node# 10. Intermediate weight: 16.47.
+Hidden neuron# 2, node# 11. Intermediate weight: 16.24.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.31.
+Hidden neuron# 2, node# 13. Intermediate weight: 33.91.
+Hidden neuron# 2, node# 14. Intermediate weight: 15.91.
+Hidden neuron# 2, node# 15. Intermediate weight: -15.18.
+Hidden neuron# 2, node# 16. Intermediate weight: -25.11.
+Hidden neuron# 2, node# 17. Intermediate weight: -24.58.
+Hidden neuron# 2, node# 18. Intermediate weight: -2.16.
+Hidden neuron# 2, node# 19. Intermediate weight: 20.73.
+Hidden neuron# 2, node# 20. Intermediate weight: -9.57.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.13.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.3.
+Hidden neuron# 3, node# 1. Intermediate weight: -3.91.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.75.
+Hidden neuron# 3, node# 3. Intermediate weight: -10.7.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.55.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.65.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.45.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.16.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.81.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.03.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.51.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.41.
+Hidden neuron# 3, node# 12. Intermediate weight: 14.34.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.2.
+Hidden neuron# 3, node# 14. Intermediate weight: 3.02.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.79.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.48.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.9.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.31.
+Hidden neuron# 3, node# 19. Intermediate weight: 3.8.
+Hidden neuron# 3, node# 20. Intermediate weight: -12.85.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.86.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 1.17.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.81.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.74.
+Hidden neuron# 4, node# 3. Intermediate weight: 8.72.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.73.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.21.
+Hidden neuron# 4, node# 6. Intermediate weight: 12.91.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.08.
+Hidden neuron# 4, node# 8. Intermediate weight: 2.2.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.27.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.71.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.19.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.68.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.22.
+Hidden neuron# 4, node# 14. Intermediate weight: -8.08.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.8.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.89.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.77.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.13.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.25.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.61.
+Hidden neuron# 4, node# 21. Intermediate weight: -11.78.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -10.99.
+Output neuron, node# 1. Intermediate weight: 18.09.
+Output neuron, node# 2. Intermediate weight: -19.43.
+Output neuron, node# 3. Intermediate weight: 20.31.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 800. Accuracy: 99.75%.
+End of epoch 801. Accuracy: 99.77%.
+End of epoch 802. Accuracy: 99.76%.
+End of epoch 803. Accuracy: 99.75%.
+End of epoch 804. Accuracy: 99.73%.
+End of epoch 805. Accuracy: 99.77%.
+End of epoch 806. Accuracy: 99.76%.
+End of epoch 807. Accuracy: 99.73%.
+End of epoch 808. Accuracy: 99.77%.
+End of epoch 809. Accuracy: 99.76%.
+End of epoch 810. Accuracy: 99.76%.
+End of epoch 811. Accuracy: 99.75%.
+End of epoch 812. Accuracy: 99.72%.
+End of epoch 813. Accuracy: 99.73%.
+End of epoch 814. Accuracy: 99.74%.
+End of epoch 815. Accuracy: 99.76%.
+End of epoch 816. Accuracy: 99.74%.
+End of epoch 817. Accuracy: 99.76%.
+End of epoch 818. Accuracy: 99.75%.
+End of epoch 819. Accuracy: 99.71%.
+End of epoch 820. Accuracy: 99.76%.
+End of epoch 821. Accuracy: 99.77%.
+End of epoch 822. Accuracy: 99.75%.
+End of epoch 823. Accuracy: 99.68%.
+End of epoch 824. Accuracy: 99.76%.
+End of epoch 825. Accuracy: 99.77%.
+End of epoch 826. Accuracy: 99.77%.
+End of epoch 827. Accuracy: 99.75%.
+End of epoch 828. Accuracy: 99.75%.
+End of epoch 829. Accuracy: 99.75%.
+End of epoch 830. Accuracy: 99.77%.
+End of epoch 831. Accuracy: 99.76%.
+End of epoch 832. Accuracy: 99.77%.
+End of epoch 833. Accuracy: 99.76%.
+End of epoch 834. Accuracy: 99.75%.
+End of epoch 835. Accuracy: 99.72%.
+End of epoch 836. Accuracy: 99.76%.
+End of epoch 837. Accuracy: 99.76%.
+End of epoch 838. Accuracy: 99.76%.
+End of epoch 839. Accuracy: 99.75%.
+End of epoch 840. Accuracy: 99.77%.
+End of epoch 841. Accuracy: 99.77%.
+End of epoch 842. Accuracy: 99.76%.
+End of epoch 843. Accuracy: 99.75%.
+End of epoch 844. Accuracy: 99.77%.
+End of epoch 845. Accuracy: 99.77%.
+End of epoch 846. Accuracy: 99.76%.
+End of epoch 847. Accuracy: 99.76%.
+End of epoch 848. Accuracy: 99.76%.
+End of epoch 849. Accuracy: 99.76%.
+End of epoch 850. Accuracy: 99.76%.
+End of epoch 851. Accuracy: 99.76%.
+End of epoch 852. Accuracy: 99.76%.
+End of epoch 853. Accuracy: 99.65%.
+End of epoch 854. Accuracy: 99.74%.
+End of epoch 855. Accuracy: 99.76%.
+End of epoch 856. Accuracy: 99.76%.
+End of epoch 857. Accuracy: 99.65%.
+End of epoch 858. Accuracy: 99.77%.
+End of epoch 859. Accuracy: 99.76%.
+End of epoch 860. Accuracy: 99.75%.
+End of epoch 861. Accuracy: 99.76%.
+End of epoch 862. Accuracy: 99.75%.
+End of epoch 863. Accuracy: 99.71%.
+End of epoch 864. Accuracy: 99.71%.
+End of epoch 865. Accuracy: 99.67%.
+End of epoch 866. Accuracy: 99.76%.
+End of epoch 867. Accuracy: 99.76%.
+End of epoch 868. Accuracy: 99.77%.
+End of epoch 869. Accuracy: 99.75%.
+End of epoch 870. Accuracy: 99.76%.
+End of epoch 871. Accuracy: 99.65%.
+End of epoch 872. Accuracy: 99.76%.
+End of epoch 873. Accuracy: 99.76%.
+End of epoch 874. Accuracy: 99.76%.
+End of epoch 875. Accuracy: 99.76%.
+End of epoch 876. Accuracy: 99.76%.
+End of epoch 877. Accuracy: 99.76%.
+End of epoch 878. Accuracy: 99.76%.
+End of epoch 879. Accuracy: 99.76%.
+End of epoch 880. Accuracy: 99.76%.
+End of epoch 881. Accuracy: 99.76%.
+End of epoch 882. Accuracy: 99.76%.
+End of epoch 883. Accuracy: 99.76%.
+End of epoch 884. Accuracy: 99.76%.
+End of epoch 885. Accuracy: 99.76%.
+End of epoch 886. Accuracy: 99.76%.
+End of epoch 887. Accuracy: 99.76%.
+End of epoch 888. Accuracy: 99.76%.
+End of epoch 889. Accuracy: 99.76%.
+End of epoch 890. Accuracy: 99.76%.
+End of epoch 891. Accuracy: 99.73%.
+End of epoch 892. Accuracy: 99.73%.
+End of epoch 893. Accuracy: 99.71%.
+End of epoch 894. Accuracy: 99.77%.
+End of epoch 895. Accuracy: 99.76%.
+End of epoch 896. Accuracy: 99.76%.
+End of epoch 897. Accuracy: 99.75%.
+End of epoch 898. Accuracy: 99.76%.
+End of epoch 899. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 5.94.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.38.
+Hidden neuron# 1, node# 2. Intermediate weight: -7.1.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.15.
+Hidden neuron# 1, node# 4. Intermediate weight: -1.95.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.42.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.32.
+Hidden neuron# 1, node# 7. Intermediate weight: 2.28.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.15.
+Hidden neuron# 1, node# 9. Intermediate weight: 7.67.
+Hidden neuron# 1, node# 10. Intermediate weight: 14.82.
+Hidden neuron# 1, node# 11. Intermediate weight: -10.89.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.68.
+Hidden neuron# 1, node# 13. Intermediate weight: -9.98.
+Hidden neuron# 1, node# 14. Intermediate weight: -9.8.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.47.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.32.
+Hidden neuron# 1, node# 17. Intermediate weight: 5.41.
+Hidden neuron# 1, node# 18. Intermediate weight: 7.75.
+Hidden neuron# 1, node# 19. Intermediate weight: 16.36.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.27.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.57.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.49.
+Hidden neuron# 2, node# 1. Intermediate weight: -1.05.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.2.
+Hidden neuron# 2, node# 3. Intermediate weight: -27.13.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.44.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.47.
+Hidden neuron# 2, node# 6. Intermediate weight: 32.53.
+Hidden neuron# 2, node# 7. Intermediate weight: -34.65.
+Hidden neuron# 2, node# 8. Intermediate weight: 6.22.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.62.
+Hidden neuron# 2, node# 10. Intermediate weight: 17.13.
+Hidden neuron# 2, node# 11. Intermediate weight: 16.55.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.44.
+Hidden neuron# 2, node# 13. Intermediate weight: 34.13.
+Hidden neuron# 2, node# 14. Intermediate weight: 16.11.
+Hidden neuron# 2, node# 15. Intermediate weight: -15.13.
+Hidden neuron# 2, node# 16. Intermediate weight: -25.05.
+Hidden neuron# 2, node# 17. Intermediate weight: -27.16.
+Hidden neuron# 2, node# 18. Intermediate weight: -1.75.
+Hidden neuron# 2, node# 19. Intermediate weight: 21.43.
+Hidden neuron# 2, node# 20. Intermediate weight: -9.18.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.67.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.15.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.14.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.73.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.65.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.6.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.51.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.39.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.63.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.34.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.48.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.24.
+Hidden neuron# 3, node# 12. Intermediate weight: 14.77.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.3.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.94.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.86.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.39.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.97.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.56.
+Hidden neuron# 3, node# 19. Intermediate weight: 3.94.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.13.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.9.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.8.
+Hidden neuron# 4, node# 1. Intermediate weight: -1.03.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.73.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.01.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.89.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.21.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.21.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.14.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.98.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.54.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.72.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.19.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.69.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.09.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.94.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.8.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.89.
+Hidden neuron# 4, node# 17. Intermediate weight: -8.96.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.15.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.27.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.68.
+Hidden neuron# 4, node# 21. Intermediate weight: -11.74.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -11.67.
+Output neuron, node# 1. Intermediate weight: 18.47.
+Output neuron, node# 2. Intermediate weight: -20.06.
+Output neuron, node# 3. Intermediate weight: 20.66.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 900. Accuracy: 99.76%.
+End of epoch 901. Accuracy: 99.74%.
+End of epoch 902. Accuracy: 99.75%.
+End of epoch 903. Accuracy: 99.72%.
+End of epoch 904. Accuracy: 99.67%.
+End of epoch 905. Accuracy: 99.77%.
+End of epoch 906. Accuracy: 99.75%.
+End of epoch 907. Accuracy: 99.77%.
+End of epoch 908. Accuracy: 99.76%.
+End of epoch 909. Accuracy: 99.76%.
+End of epoch 910. Accuracy: 99.76%.
+End of epoch 911. Accuracy: 99.76%.
+End of epoch 912. Accuracy: 99.76%.
+End of epoch 913. Accuracy: 99.76%.
+End of epoch 914. Accuracy: 99.74%.
+End of epoch 915. Accuracy: 99.74%.
+End of epoch 916. Accuracy: 99.77%.
+End of epoch 917. Accuracy: 99.73%.
+End of epoch 918. Accuracy: 99.77%.
+End of epoch 919. Accuracy: 99.76%.
+End of epoch 920. Accuracy: 99.76%.
+End of epoch 921. Accuracy: 99.77%.
+End of epoch 922. Accuracy: 99.77%.
+End of epoch 923. Accuracy: 99.74%.
+End of epoch 924. Accuracy: 99.76%.
+End of epoch 925. Accuracy: 99.76%.
+End of epoch 926. Accuracy: 99.76%.
+End of epoch 927. Accuracy: 99.76%.
+End of epoch 928. Accuracy: 99.76%.
+End of epoch 929. Accuracy: 99.76%.
+End of epoch 930. Accuracy: 99.76%.
+End of epoch 931. Accuracy: 99.76%.
+End of epoch 932. Accuracy: 99.76%.
+End of epoch 933. Accuracy: 99.76%.
+End of epoch 934. Accuracy: 99.76%.
+End of epoch 935. Accuracy: 99.69%.
+End of epoch 936. Accuracy: 99.68%.
+End of epoch 937. Accuracy: 99.77%.
+End of epoch 938. Accuracy: 99.74%.
+End of epoch 939. Accuracy: 99.77%.
+End of epoch 940. Accuracy: 99.74%.
+End of epoch 941. Accuracy: 99.76%.
+End of epoch 942. Accuracy: 99.77%.
+End of epoch 943. Accuracy: 99.77%.
+End of epoch 944. Accuracy: 99.76%.
+End of epoch 945. Accuracy: 99.76%.
+End of epoch 946. Accuracy: 99.75%.
+End of epoch 947. Accuracy: 99.76%.
+End of epoch 948. Accuracy: 99.76%.
+End of epoch 949. Accuracy: 99.76%.
+End of epoch 950. Accuracy: 99.77%.
+End of epoch 951. Accuracy: 99.76%.
+End of epoch 952. Accuracy: 99.77%.
+End of epoch 953. Accuracy: 99.76%.
+End of epoch 954. Accuracy: 99.76%.
+End of epoch 955. Accuracy: 99.67%.
+End of epoch 956. Accuracy: 99.77%.
+End of epoch 957. Accuracy: 99.75%.
+End of epoch 958. Accuracy: 99.77%.
+End of epoch 959. Accuracy: 99.76%.
+End of epoch 960. Accuracy: 99.77%.
+End of epoch 961. Accuracy: 99.69%.
+End of epoch 962. Accuracy: 99.77%.
+End of epoch 963. Accuracy: 99.77%.
+End of epoch 964. Accuracy: 99.77%.
+End of epoch 965. Accuracy: 99.68%.
+End of epoch 966. Accuracy: 99.77%.
+End of epoch 967. Accuracy: 99.77%.
+End of epoch 968. Accuracy: 99.68%.
+End of epoch 969. Accuracy: 99.71%.
+End of epoch 970. Accuracy: 99.73%.
+End of epoch 971. Accuracy: 99.77%.
+End of epoch 972. Accuracy: 99.77%.
+End of epoch 973. Accuracy: 99.77%.
+End of epoch 974. Accuracy: 99.77%.
+End of epoch 975. Accuracy: 99.77%.
+End of epoch 976. Accuracy: 99.77%.
+End of epoch 977. Accuracy: 99.68%.
+End of epoch 978. Accuracy: 99.76%.
+End of epoch 979. Accuracy: 99.76%.
+End of epoch 980. Accuracy: 99.76%.
+End of epoch 981. Accuracy: 99.77%.
+End of epoch 982. Accuracy: 99.77%.
+End of epoch 983. Accuracy: 99.77%.
+End of epoch 984. Accuracy: 99.77%.
+End of epoch 985. Accuracy: 99.77%.
+End of epoch 986. Accuracy: 99.77%.
+End of epoch 987. Accuracy: 99.77%.
+End of epoch 988. Accuracy: 99.77%.
+End of epoch 989. Accuracy: 99.77%.
+End of epoch 990. Accuracy: 99.77%.
+End of epoch 991. Accuracy: 99.77%.
+End of epoch 992. Accuracy: 99.77%.
+End of epoch 993. Accuracy: 99.77%.
+End of epoch 994. Accuracy: 99.77%.
+End of epoch 995. Accuracy: 99.77%.
+End of epoch 996. Accuracy: 99.77%.
+End of epoch 997. Accuracy: 99.77%.
+End of epoch 998. Accuracy: 99.77%.
+End of epoch 999. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 5.89.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.15.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.95.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.43.
+Hidden neuron# 1, node# 4. Intermediate weight: -2.65.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.66.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.71.
+Hidden neuron# 1, node# 7. Intermediate weight: 2.1.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.49.
+Hidden neuron# 1, node# 9. Intermediate weight: 8.78.
+Hidden neuron# 1, node# 10. Intermediate weight: 15.86.
+Hidden neuron# 1, node# 11. Intermediate weight: -11.85.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.33.
+Hidden neuron# 1, node# 13. Intermediate weight: -10.93.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.71.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.86.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.79.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.58.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.28.
+Hidden neuron# 1, node# 19. Intermediate weight: 18.39.
+Hidden neuron# 1, node# 20. Intermediate weight: 0.36.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.12.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.73.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.68.
+Hidden neuron# 2, node# 2. Intermediate weight: 1.49.
+Hidden neuron# 2, node# 3. Intermediate weight: -28.3.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.53.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.37.
+Hidden neuron# 2, node# 6. Intermediate weight: 34.52.
+Hidden neuron# 2, node# 7. Intermediate weight: -33.5.
+Hidden neuron# 2, node# 8. Intermediate weight: 5.16.
+Hidden neuron# 2, node# 9. Intermediate weight: -15.36.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.11.
+Hidden neuron# 2, node# 11. Intermediate weight: 17.01.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.45.
+Hidden neuron# 2, node# 13. Intermediate weight: 34.41.
+Hidden neuron# 2, node# 14. Intermediate weight: 16.34.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.97.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.84.
+Hidden neuron# 2, node# 17. Intermediate weight: -29.69.
+Hidden neuron# 2, node# 18. Intermediate weight: -1.31.
+Hidden neuron# 2, node# 19. Intermediate weight: 20.89.
+Hidden neuron# 2, node# 20. Intermediate weight: -8.77.
+Hidden neuron# 2, node# 21. Intermediate weight: 11.58.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.09.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.24.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.74.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.3.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.63.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.59.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.57.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.58.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.65.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.58.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.37.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.13.
+Hidden neuron# 3, node# 12. Intermediate weight: 15.17.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.32.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.96.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.88.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.38.
+Hidden neuron# 3, node# 17. Intermediate weight: -0.98.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.62.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.17.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.35.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.91.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.91.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.87.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.77.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.22.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.89.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.22.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.41.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.18.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.73.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.7.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.69.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.15.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.66.
+Hidden neuron# 4, node# 13. Intermediate weight: -11.02.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.87.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.78.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.92.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.1.
+Hidden neuron# 4, node# 18. Intermediate weight: -1.12.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.21.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.69.
+Hidden neuron# 4, node# 21. Intermediate weight: -11.86.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.19.
+Output neuron, node# 1. Intermediate weight: 19.2.
+Output neuron, node# 2. Intermediate weight: -20.63.
+Output neuron, node# 3. Intermediate weight: 21.04.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1000. Accuracy: 99.77%.
+End of epoch 1001. Accuracy: 99.77%.
+End of epoch 1002. Accuracy: 99.77%.
+End of epoch 1003. Accuracy: 99.77%.
+End of epoch 1004. Accuracy: 99.77%.
+End of epoch 1005. Accuracy: 99.77%.
+End of epoch 1006. Accuracy: 99.77%.
+End of epoch 1007. Accuracy: 99.77%.
+End of epoch 1008. Accuracy: 99.77%.
+End of epoch 1009. Accuracy: 99.77%.
+End of epoch 1010. Accuracy: 99.77%.
+End of epoch 1011. Accuracy: 99.77%.
+End of epoch 1012. Accuracy: 99.77%.
+End of epoch 1013. Accuracy: 99.77%.
+End of epoch 1014. Accuracy: 99.77%.
+End of epoch 1015. Accuracy: 99.77%.
+End of epoch 1016. Accuracy: 99.77%.
+End of epoch 1017. Accuracy: 99.77%.
+End of epoch 1018. Accuracy: 99.77%.
+End of epoch 1019. Accuracy: 99.77%.
+End of epoch 1020. Accuracy: 99.77%.
+End of epoch 1021. Accuracy: 99.77%.
+End of epoch 1022. Accuracy: 99.77%.
+End of epoch 1023. Accuracy: 99.77%.
+End of epoch 1024. Accuracy: 99.77%.
+End of epoch 1025. Accuracy: 99.77%.
+End of epoch 1026. Accuracy: 99.77%.
+End of epoch 1027. Accuracy: 99.77%.
+End of epoch 1028. Accuracy: 99.77%.
+End of epoch 1029. Accuracy: 99.77%.
+End of epoch 1030. Accuracy: 99.77%.
+End of epoch 1031. Accuracy: 99.77%.
+End of epoch 1032. Accuracy: 99.77%.
+End of epoch 1033. Accuracy: 99.77%.
+End of epoch 1034. Accuracy: 99.77%.
+End of epoch 1035. Accuracy: 99.77%.
+End of epoch 1036. Accuracy: 99.77%.
+End of epoch 1037. Accuracy: 99.77%.
+End of epoch 1038. Accuracy: 99.77%.
+End of epoch 1039. Accuracy: 99.77%.
+End of epoch 1040. Accuracy: 99.77%.
+End of epoch 1041. Accuracy: 99.77%.
+End of epoch 1042. Accuracy: 99.77%.
+End of epoch 1043. Accuracy: 99.77%.
+End of epoch 1044. Accuracy: 99.77%.
+End of epoch 1045. Accuracy: 99.77%.
+End of epoch 1046. Accuracy: 99.77%.
+End of epoch 1047. Accuracy: 99.77%.
+End of epoch 1048. Accuracy: 99.77%.
+End of epoch 1049. Accuracy: 99.77%.
+End of epoch 1050. Accuracy: 99.77%.
+End of epoch 1051. Accuracy: 99.77%.
+End of epoch 1052. Accuracy: 99.77%.
+End of epoch 1053. Accuracy: 99.77%.
+End of epoch 1054. Accuracy: 99.77%.
+End of epoch 1055. Accuracy: 99.77%.
+End of epoch 1056. Accuracy: 99.77%.
+End of epoch 1057. Accuracy: 99.77%.
+End of epoch 1058. Accuracy: 99.77%.
+End of epoch 1059. Accuracy: 99.77%.
+End of epoch 1060. Accuracy: 99.77%.
+End of epoch 1061. Accuracy: 99.77%.
+End of epoch 1062. Accuracy: 99.77%.
+End of epoch 1063. Accuracy: 99.77%.
+End of epoch 1064. Accuracy: 99.77%.
+End of epoch 1065. Accuracy: 99.77%.
+End of epoch 1066. Accuracy: 99.77%.
+End of epoch 1067. Accuracy: 99.77%.
+End of epoch 1068. Accuracy: 99.77%.
+End of epoch 1069. Accuracy: 99.77%.
+End of epoch 1070. Accuracy: 99.77%.
+End of epoch 1071. Accuracy: 99.77%.
+End of epoch 1072. Accuracy: 99.77%.
+End of epoch 1073. Accuracy: 99.77%.
+End of epoch 1074. Accuracy: 99.77%.
+End of epoch 1075. Accuracy: 99.77%.
+End of epoch 1076. Accuracy: 99.77%.
+End of epoch 1077. Accuracy: 99.77%.
+End of epoch 1078. Accuracy: 99.77%.
+End of epoch 1079. Accuracy: 99.77%.
+End of epoch 1080. Accuracy: 99.77%.
+End of epoch 1081. Accuracy: 99.77%.
+End of epoch 1082. Accuracy: 99.77%.
+End of epoch 1083. Accuracy: 99.77%.
+End of epoch 1084. Accuracy: 99.77%.
+End of epoch 1085. Accuracy: 99.77%.
+End of epoch 1086. Accuracy: 99.77%.
+End of epoch 1087. Accuracy: 99.77%.
+End of epoch 1088. Accuracy: 99.77%.
+End of epoch 1089. Accuracy: 99.77%.
+End of epoch 1090. Accuracy: 99.77%.
+End of epoch 1091. Accuracy: 99.77%.
+End of epoch 1092. Accuracy: 99.77%.
+End of epoch 1093. Accuracy: 99.77%.
+End of epoch 1094. Accuracy: 99.77%.
+End of epoch 1095. Accuracy: 99.77%.
+End of epoch 1096. Accuracy: 99.77%.
+End of epoch 1097. Accuracy: 99.77%.
+End of epoch 1098. Accuracy: 99.77%.
+End of epoch 1099. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.87.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.16.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.81.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.4.
+Hidden neuron# 1, node# 4. Intermediate weight: -3.17.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.68.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.43.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.78.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.64.
+Hidden neuron# 1, node# 9. Intermediate weight: 9.71.
+Hidden neuron# 1, node# 10. Intermediate weight: 16.15.
+Hidden neuron# 1, node# 11. Intermediate weight: -11.92.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.18.
+Hidden neuron# 1, node# 13. Intermediate weight: -11.02.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.79.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.89.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.79.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.72.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.33.
+Hidden neuron# 1, node# 19. Intermediate weight: 18.9.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.03.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.49.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.82.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.82.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.92.
+Hidden neuron# 2, node# 3. Intermediate weight: -27.88.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.46.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.18.
+Hidden neuron# 2, node# 6. Intermediate weight: 35.54.
+Hidden neuron# 2, node# 7. Intermediate weight: -32.88.
+Hidden neuron# 2, node# 8. Intermediate weight: 2.77.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.96.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.74.
+Hidden neuron# 2, node# 11. Intermediate weight: 17.68.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.39.
+Hidden neuron# 2, node# 13. Intermediate weight: 34.83.
+Hidden neuron# 2, node# 14. Intermediate weight: 16.68.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.64.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.42.
+Hidden neuron# 2, node# 17. Intermediate weight: -30.34.
+Hidden neuron# 2, node# 18. Intermediate weight: -0.72.
+Hidden neuron# 2, node# 19. Intermediate weight: 20.22.
+Hidden neuron# 2, node# 20. Intermediate weight: -8.37.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.96.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: -0.05.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.3.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.63.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.45.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.71.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.55.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.75.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.57.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.65.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.68.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.41.
+Hidden neuron# 3, node# 11. Intermediate weight: 1.
+Hidden neuron# 3, node# 12. Intermediate weight: 15.51.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.39.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.92.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.94.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.31.
+Hidden neuron# 3, node# 17. Intermediate weight: -1.04.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.59.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.4.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.62.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.9.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.68.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.84.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.79.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.46.
+Hidden neuron# 4, node# 4. Intermediate weight: 12.95.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.22.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.47.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.31.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.63.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.62.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.55.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.13.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.64.
+Hidden neuron# 4, node# 13. Intermediate weight: -10.94.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.8.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.78.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.93.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.15.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.93.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.09.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.47.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.02.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.46.
+Output neuron, node# 1. Intermediate weight: 19.89.
+Output neuron, node# 2. Intermediate weight: -21.17.
+Output neuron, node# 3. Intermediate weight: 21.33.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1100. Accuracy: 99.77%.
+End of epoch 1101. Accuracy: 99.77%.
+End of epoch 1102. Accuracy: 99.77%.
+End of epoch 1103. Accuracy: 99.77%.
+End of epoch 1104. Accuracy: 99.77%.
+End of epoch 1105. Accuracy: 99.77%.
+End of epoch 1106. Accuracy: 99.77%.
+End of epoch 1107. Accuracy: 99.77%.
+End of epoch 1108. Accuracy: 99.77%.
+End of epoch 1109. Accuracy: 99.77%.
+End of epoch 1110. Accuracy: 99.77%.
+End of epoch 1111. Accuracy: 99.77%.
+End of epoch 1112. Accuracy: 99.77%.
+End of epoch 1113. Accuracy: 99.77%.
+End of epoch 1114. Accuracy: 99.77%.
+End of epoch 1115. Accuracy: 99.77%.
+End of epoch 1116. Accuracy: 99.77%.
+End of epoch 1117. Accuracy: 99.77%.
+End of epoch 1118. Accuracy: 99.77%.
+End of epoch 1119. Accuracy: 99.77%.
+End of epoch 1120. Accuracy: 99.77%.
+End of epoch 1121. Accuracy: 99.77%.
+End of epoch 1122. Accuracy: 99.77%.
+End of epoch 1123. Accuracy: 99.77%.
+End of epoch 1124. Accuracy: 99.77%.
+End of epoch 1125. Accuracy: 99.77%.
+End of epoch 1126. Accuracy: 99.77%.
+End of epoch 1127. Accuracy: 99.77%.
+End of epoch 1128. Accuracy: 99.77%.
+End of epoch 1129. Accuracy: 99.77%.
+End of epoch 1130. Accuracy: 99.77%.
+End of epoch 1131. Accuracy: 99.77%.
+End of epoch 1132. Accuracy: 99.77%.
+End of epoch 1133. Accuracy: 99.77%.
+End of epoch 1134. Accuracy: 99.77%.
+End of epoch 1135. Accuracy: 99.77%.
+End of epoch 1136. Accuracy: 99.77%.
+End of epoch 1137. Accuracy: 99.77%.
+End of epoch 1138. Accuracy: 99.77%.
+End of epoch 1139. Accuracy: 99.77%.
+End of epoch 1140. Accuracy: 99.77%.
+End of epoch 1141. Accuracy: 99.77%.
+End of epoch 1142. Accuracy: 99.77%.
+End of epoch 1143. Accuracy: 99.77%.
+End of epoch 1144. Accuracy: 99.77%.
+End of epoch 1145. Accuracy: 99.77%.
+End of epoch 1146. Accuracy: 99.77%.
+End of epoch 1147. Accuracy: 99.77%.
+End of epoch 1148. Accuracy: 99.77%.
+End of epoch 1149. Accuracy: 99.77%.
+End of epoch 1150. Accuracy: 99.77%.
+End of epoch 1151. Accuracy: 99.77%.
+End of epoch 1152. Accuracy: 99.77%.
+End of epoch 1153. Accuracy: 99.77%.
+End of epoch 1154. Accuracy: 99.77%.
+End of epoch 1155. Accuracy: 99.77%.
+End of epoch 1156. Accuracy: 99.77%.
+End of epoch 1157. Accuracy: 99.77%.
+End of epoch 1158. Accuracy: 99.77%.
+End of epoch 1159. Accuracy: 99.77%.
+End of epoch 1160. Accuracy: 99.77%.
+End of epoch 1161. Accuracy: 99.77%.
+End of epoch 1162. Accuracy: 99.77%.
+End of epoch 1163. Accuracy: 99.77%.
+End of epoch 1164. Accuracy: 99.77%.
+End of epoch 1165. Accuracy: 99.77%.
+End of epoch 1166. Accuracy: 99.77%.
+End of epoch 1167. Accuracy: 99.77%.
+End of epoch 1168. Accuracy: 99.77%.
+End of epoch 1169. Accuracy: 99.77%.
+End of epoch 1170. Accuracy: 99.77%.
+End of epoch 1171. Accuracy: 99.77%.
+End of epoch 1172. Accuracy: 99.77%.
+End of epoch 1173. Accuracy: 99.77%.
+End of epoch 1174. Accuracy: 99.77%.
+End of epoch 1175. Accuracy: 99.77%.
+End of epoch 1176. Accuracy: 99.77%.
+End of epoch 1177. Accuracy: 99.77%.
+End of epoch 1178. Accuracy: 99.77%.
+End of epoch 1179. Accuracy: 99.77%.
+End of epoch 1180. Accuracy: 99.77%.
+End of epoch 1181. Accuracy: 99.77%.
+End of epoch 1182. Accuracy: 99.77%.
+End of epoch 1183. Accuracy: 99.77%.
+End of epoch 1184. Accuracy: 99.77%.
+End of epoch 1185. Accuracy: 99.77%.
+End of epoch 1186. Accuracy: 99.77%.
+End of epoch 1187. Accuracy: 99.77%.
+End of epoch 1188. Accuracy: 99.77%.
+End of epoch 1189. Accuracy: 99.77%.
+End of epoch 1190. Accuracy: 99.77%.
+End of epoch 1191. Accuracy: 99.77%.
+End of epoch 1192. Accuracy: 99.77%.
+End of epoch 1193. Accuracy: 99.77%.
+End of epoch 1194. Accuracy: 99.77%.
+End of epoch 1195. Accuracy: 99.77%.
+End of epoch 1196. Accuracy: 99.77%.
+End of epoch 1197. Accuracy: 99.77%.
+End of epoch 1198. Accuracy: 99.77%.
+End of epoch 1199. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.52.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.29.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.72.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.49.
+Hidden neuron# 1, node# 4. Intermediate weight: -3.42.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.69.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.23.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.6.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.47.
+Hidden neuron# 1, node# 9. Intermediate weight: 10.15.
+Hidden neuron# 1, node# 10. Intermediate weight: 16.41.
+Hidden neuron# 1, node# 11. Intermediate weight: -11.98.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.33.
+Hidden neuron# 1, node# 13. Intermediate weight: -11.07.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.83.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.91.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.79.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.76.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.49.
+Hidden neuron# 1, node# 19. Intermediate weight: 19.19.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.22.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.63.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.73.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.58.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.74.
+Hidden neuron# 2, node# 3. Intermediate weight: -27.86.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.35.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.08.
+Hidden neuron# 2, node# 6. Intermediate weight: 35.74.
+Hidden neuron# 2, node# 7. Intermediate weight: -32.59.
+Hidden neuron# 2, node# 8. Intermediate weight: 2.12.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.82.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.77.
+Hidden neuron# 2, node# 11. Intermediate weight: 17.92.
+Hidden neuron# 2, node# 12. Intermediate weight: 12.25.
+Hidden neuron# 2, node# 13. Intermediate weight: 35.03.
+Hidden neuron# 2, node# 14. Intermediate weight: 16.86.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.49.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.22.
+Hidden neuron# 2, node# 17. Intermediate weight: -30.52.
+Hidden neuron# 2, node# 18. Intermediate weight: -0.67.
+Hidden neuron# 2, node# 19. Intermediate weight: 19.85.
+Hidden neuron# 2, node# 20. Intermediate weight: -8.23.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.73.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 0.04.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.38.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.59.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.5.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.84.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.54.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.86.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.58.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.58.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.73.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.52.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.96.
+Hidden neuron# 3, node# 12. Intermediate weight: 15.74.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.41.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.9.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.97.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.28.
+Hidden neuron# 3, node# 17. Intermediate weight: -1.06.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.69.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.51.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.74.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.89.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.47.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.79.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.8.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.55.
+Hidden neuron# 4, node# 4. Intermediate weight: 13.04.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.23.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.47.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.38.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.56.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.58.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.49.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.11.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.63.
+Hidden neuron# 4, node# 13. Intermediate weight: -10.91.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.77.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.77.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.94.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.17.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.86.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.07.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.34.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.12.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.54.
+Output neuron, node# 1. Intermediate weight: 20.1.
+Output neuron, node# 2. Intermediate weight: -21.39.
+Output neuron, node# 3. Intermediate weight: 21.59.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1200. Accuracy: 99.77%.
+End of epoch 1201. Accuracy: 99.77%.
+End of epoch 1202. Accuracy: 99.77%.
+End of epoch 1203. Accuracy: 99.77%.
+End of epoch 1204. Accuracy: 99.77%.
+End of epoch 1205. Accuracy: 99.77%.
+End of epoch 1206. Accuracy: 99.77%.
+End of epoch 1207. Accuracy: 99.77%.
+End of epoch 1208. Accuracy: 99.77%.
+End of epoch 1209. Accuracy: 99.77%.
+End of epoch 1210. Accuracy: 99.77%.
+End of epoch 1211. Accuracy: 99.77%.
+End of epoch 1212. Accuracy: 99.77%.
+End of epoch 1213. Accuracy: 99.77%.
+End of epoch 1214. Accuracy: 99.77%.
+End of epoch 1215. Accuracy: 99.77%.
+End of epoch 1216. Accuracy: 99.77%.
+End of epoch 1217. Accuracy: 99.77%.
+End of epoch 1218. Accuracy: 99.77%.
+End of epoch 1219. Accuracy: 99.77%.
+End of epoch 1220. Accuracy: 99.77%.
+End of epoch 1221. Accuracy: 99.77%.
+End of epoch 1222. Accuracy: 99.77%.
+End of epoch 1223. Accuracy: 99.77%.
+End of epoch 1224. Accuracy: 99.77%.
+End of epoch 1225. Accuracy: 99.77%.
+End of epoch 1226. Accuracy: 99.77%.
+End of epoch 1227. Accuracy: 99.77%.
+End of epoch 1228. Accuracy: 99.77%.
+End of epoch 1229. Accuracy: 99.77%.
+End of epoch 1230. Accuracy: 99.77%.
+End of epoch 1231. Accuracy: 99.77%.
+End of epoch 1232. Accuracy: 99.77%.
+End of epoch 1233. Accuracy: 99.77%.
+End of epoch 1234. Accuracy: 99.77%.
+End of epoch 1235. Accuracy: 99.77%.
+End of epoch 1236. Accuracy: 99.77%.
+End of epoch 1237. Accuracy: 99.77%.
+End of epoch 1238. Accuracy: 99.77%.
+End of epoch 1239. Accuracy: 99.77%.
+End of epoch 1240. Accuracy: 99.77%.
+End of epoch 1241. Accuracy: 99.77%.
+End of epoch 1242. Accuracy: 99.77%.
+End of epoch 1243. Accuracy: 99.77%.
+End of epoch 1244. Accuracy: 99.77%.
+End of epoch 1245. Accuracy: 99.77%.
+End of epoch 1246. Accuracy: 99.77%.
+End of epoch 1247. Accuracy: 99.77%.
+End of epoch 1248. Accuracy: 99.77%.
+End of epoch 1249. Accuracy: 99.77%.
+End of epoch 1250. Accuracy: 99.77%.
+End of epoch 1251. Accuracy: 99.77%.
+End of epoch 1252. Accuracy: 99.77%.
+End of epoch 1253. Accuracy: 99.77%.
+End of epoch 1254. Accuracy: 99.77%.
+End of epoch 1255. Accuracy: 99.77%.
+End of epoch 1256. Accuracy: 99.77%.
+End of epoch 1257. Accuracy: 99.77%.
+End of epoch 1258. Accuracy: 99.77%.
+End of epoch 1259. Accuracy: 99.77%.
+End of epoch 1260. Accuracy: 99.77%.
+End of epoch 1261. Accuracy: 99.77%.
+End of epoch 1262. Accuracy: 99.77%.
+End of epoch 1263. Accuracy: 99.77%.
+End of epoch 1264. Accuracy: 99.77%.
+End of epoch 1265. Accuracy: 99.77%.
+End of epoch 1266. Accuracy: 99.77%.
+End of epoch 1267. Accuracy: 99.77%.
+End of epoch 1268. Accuracy: 99.77%.
+End of epoch 1269. Accuracy: 99.77%.
+End of epoch 1270. Accuracy: 99.77%.
+End of epoch 1271. Accuracy: 99.77%.
+End of epoch 1272. Accuracy: 99.77%.
+End of epoch 1273. Accuracy: 99.77%.
+End of epoch 1274. Accuracy: 99.77%.
+End of epoch 1275. Accuracy: 99.77%.
+End of epoch 1276. Accuracy: 99.77%.
+End of epoch 1277. Accuracy: 99.77%.
+End of epoch 1278. Accuracy: 99.77%.
+End of epoch 1279. Accuracy: 99.77%.
+End of epoch 1280. Accuracy: 99.77%.
+End of epoch 1281. Accuracy: 99.77%.
+End of epoch 1282. Accuracy: 99.77%.
+End of epoch 1283. Accuracy: 99.77%.
+End of epoch 1284. Accuracy: 99.77%.
+End of epoch 1285. Accuracy: 99.77%.
+End of epoch 1286. Accuracy: 99.77%.
+End of epoch 1287. Accuracy: 99.77%.
+End of epoch 1288. Accuracy: 99.77%.
+End of epoch 1289. Accuracy: 99.77%.
+End of epoch 1290. Accuracy: 99.77%.
+End of epoch 1291. Accuracy: 99.77%.
+End of epoch 1292. Accuracy: 99.77%.
+End of epoch 1293. Accuracy: 99.77%.
+End of epoch 1294. Accuracy: 99.77%.
+End of epoch 1295. Accuracy: 99.77%.
+End of epoch 1296. Accuracy: 99.77%.
+End of epoch 1297. Accuracy: 99.77%.
+End of epoch 1298. Accuracy: 99.77%.
+End of epoch 1299. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.3.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.38.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.66.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.54.
+Hidden neuron# 1, node# 4. Intermediate weight: -3.58.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.69.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.12.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.48.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.29.
+Hidden neuron# 1, node# 9. Intermediate weight: 10.42.
+Hidden neuron# 1, node# 10. Intermediate weight: 16.6.
+Hidden neuron# 1, node# 11. Intermediate weight: -12.05.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.53.
+Hidden neuron# 1, node# 13. Intermediate weight: -11.11.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.86.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.92.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.8.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.78.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.62.
+Hidden neuron# 1, node# 19. Intermediate weight: 19.43.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.33.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.7.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.71.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.42.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.63.
+Hidden neuron# 2, node# 3. Intermediate weight: -27.89.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.23.
+Hidden neuron# 2, node# 5. Intermediate weight: -11.02.
+Hidden neuron# 2, node# 6. Intermediate weight: 35.84.
+Hidden neuron# 2, node# 7. Intermediate weight: -32.39.
+Hidden neuron# 2, node# 8. Intermediate weight: 1.85.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.78.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.7.
+Hidden neuron# 2, node# 11. Intermediate weight: 18.13.
+Hidden neuron# 2, node# 12. Intermediate weight: 11.95.
+Hidden neuron# 2, node# 13. Intermediate weight: 35.16.
+Hidden neuron# 2, node# 14. Intermediate weight: 16.97.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.39.
+Hidden neuron# 2, node# 16. Intermediate weight: -24.09.
+Hidden neuron# 2, node# 17. Intermediate weight: -30.61.
+Hidden neuron# 2, node# 18. Intermediate weight: -0.7.
+Hidden neuron# 2, node# 19. Intermediate weight: 19.55.
+Hidden neuron# 2, node# 20. Intermediate weight: -8.1.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.59.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 0.16.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.44.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.57.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.56.
+Hidden neuron# 3, node# 4. Intermediate weight: -8.95.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.53.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.89.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.59.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.52.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.77.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.6.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.92.
+Hidden neuron# 3, node# 12. Intermediate weight: 15.95.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.43.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.89.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.98.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.27.
+Hidden neuron# 3, node# 17. Intermediate weight: -1.08.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.78.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.61.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.81.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.89.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.35.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.76.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.79.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.61.
+Hidden neuron# 4, node# 4. Intermediate weight: 13.1.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.24.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.47.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.44.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.51.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.55.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.45.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.09.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.61.
+Hidden neuron# 4, node# 13. Intermediate weight: -10.9.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.76.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.76.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.96.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.19.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.82.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.06.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.25.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.18.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.57.
+Output neuron, node# 1. Intermediate weight: 20.27.
+Output neuron, node# 2. Intermediate weight: -21.52.
+Output neuron, node# 3. Intermediate weight: 21.79.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1300. Accuracy: 99.77%.
+End of epoch 1301. Accuracy: 99.77%.
+End of epoch 1302. Accuracy: 99.77%.
+End of epoch 1303. Accuracy: 99.77%.
+End of epoch 1304. Accuracy: 99.77%.
+End of epoch 1305. Accuracy: 99.77%.
+End of epoch 1306. Accuracy: 99.77%.
+End of epoch 1307. Accuracy: 99.77%.
+End of epoch 1308. Accuracy: 99.77%.
+End of epoch 1309. Accuracy: 99.77%.
+End of epoch 1310. Accuracy: 99.77%.
+End of epoch 1311. Accuracy: 99.77%.
+End of epoch 1312. Accuracy: 99.77%.
+End of epoch 1313. Accuracy: 99.77%.
+End of epoch 1314. Accuracy: 99.77%.
+End of epoch 1315. Accuracy: 99.77%.
+End of epoch 1316. Accuracy: 99.77%.
+End of epoch 1317. Accuracy: 99.77%.
+End of epoch 1318. Accuracy: 99.77%.
+End of epoch 1319. Accuracy: 99.77%.
+End of epoch 1320. Accuracy: 99.77%.
+End of epoch 1321. Accuracy: 99.77%.
+End of epoch 1322. Accuracy: 99.77%.
+End of epoch 1323. Accuracy: 99.77%.
+End of epoch 1324. Accuracy: 99.77%.
+End of epoch 1325. Accuracy: 99.77%.
+End of epoch 1326. Accuracy: 99.77%.
+End of epoch 1327. Accuracy: 99.77%.
+End of epoch 1328. Accuracy: 99.77%.
+End of epoch 1329. Accuracy: 99.77%.
+End of epoch 1330. Accuracy: 99.77%.
+End of epoch 1331. Accuracy: 99.77%.
+End of epoch 1332. Accuracy: 99.77%.
+End of epoch 1333. Accuracy: 99.77%.
+End of epoch 1334. Accuracy: 99.77%.
+End of epoch 1335. Accuracy: 99.77%.
+End of epoch 1336. Accuracy: 99.77%.
+End of epoch 1337. Accuracy: 99.77%.
+End of epoch 1338. Accuracy: 99.77%.
+End of epoch 1339. Accuracy: 99.77%.
+End of epoch 1340. Accuracy: 99.77%.
+End of epoch 1341. Accuracy: 99.77%.
+End of epoch 1342. Accuracy: 99.77%.
+End of epoch 1343. Accuracy: 99.77%.
+End of epoch 1344. Accuracy: 99.77%.
+End of epoch 1345. Accuracy: 99.77%.
+End of epoch 1346. Accuracy: 99.77%.
+End of epoch 1347. Accuracy: 99.77%.
+End of epoch 1348. Accuracy: 99.77%.
+End of epoch 1349. Accuracy: 99.77%.
+End of epoch 1350. Accuracy: 99.77%.
+End of epoch 1351. Accuracy: 99.77%.
+End of epoch 1352. Accuracy: 99.77%.
+End of epoch 1353. Accuracy: 99.77%.
+End of epoch 1354. Accuracy: 99.77%.
+End of epoch 1355. Accuracy: 99.77%.
+End of epoch 1356. Accuracy: 99.77%.
+End of epoch 1357. Accuracy: 99.77%.
+End of epoch 1358. Accuracy: 99.77%.
+End of epoch 1359. Accuracy: 99.77%.
+End of epoch 1360. Accuracy: 99.77%.
+End of epoch 1361. Accuracy: 99.77%.
+End of epoch 1362. Accuracy: 99.77%.
+End of epoch 1363. Accuracy: 99.77%.
+End of epoch 1364. Accuracy: 99.77%.
+End of epoch 1365. Accuracy: 99.77%.
+End of epoch 1366. Accuracy: 99.77%.
+End of epoch 1367. Accuracy: 99.77%.
+End of epoch 1368. Accuracy: 99.77%.
+End of epoch 1369. Accuracy: 99.77%.
+End of epoch 1370. Accuracy: 99.77%.
+End of epoch 1371. Accuracy: 99.77%.
+End of epoch 1372. Accuracy: 99.77%.
+End of epoch 1373. Accuracy: 99.77%.
+End of epoch 1374. Accuracy: 99.77%.
+End of epoch 1375. Accuracy: 99.77%.
+End of epoch 1376. Accuracy: 99.77%.
+End of epoch 1377. Accuracy: 99.77%.
+End of epoch 1378. Accuracy: 99.77%.
+End of epoch 1379. Accuracy: 99.77%.
+End of epoch 1380. Accuracy: 99.77%.
+End of epoch 1381. Accuracy: 99.77%.
+End of epoch 1382. Accuracy: 99.77%.
+End of epoch 1383. Accuracy: 99.77%.
+End of epoch 1384. Accuracy: 99.77%.
+End of epoch 1385. Accuracy: 99.77%.
+End of epoch 1386. Accuracy: 99.77%.
+End of epoch 1387. Accuracy: 99.77%.
+End of epoch 1388. Accuracy: 99.77%.
+End of epoch 1389. Accuracy: 99.77%.
+End of epoch 1390. Accuracy: 99.77%.
+End of epoch 1391. Accuracy: 99.77%.
+End of epoch 1392. Accuracy: 99.77%.
+End of epoch 1393. Accuracy: 99.77%.
+End of epoch 1394. Accuracy: 99.77%.
+End of epoch 1395. Accuracy: 99.77%.
+End of epoch 1396. Accuracy: 99.77%.
+End of epoch 1397. Accuracy: 99.77%.
+End of epoch 1398. Accuracy: 99.77%.
+End of epoch 1399. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.17.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.45.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.61.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.57.
+Hidden neuron# 1, node# 4. Intermediate weight: -3.7.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.7.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.05.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.41.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.16.
+Hidden neuron# 1, node# 9. Intermediate weight: 10.59.
+Hidden neuron# 1, node# 10. Intermediate weight: 16.73.
+Hidden neuron# 1, node# 11. Intermediate weight: -12.13.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.74.
+Hidden neuron# 1, node# 13. Intermediate weight: -11.14.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.88.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.93.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.81.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.79.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.71.
+Hidden neuron# 1, node# 19. Intermediate weight: 19.65.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.41.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.75.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.76.
+Hidden neuron# 2, node# 1. Intermediate weight: -0.25.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.56.
+Hidden neuron# 2, node# 3. Intermediate weight: -27.98.
+Hidden neuron# 2, node# 4. Intermediate weight: -10.07.
+Hidden neuron# 2, node# 5. Intermediate weight: -10.96.
+Hidden neuron# 2, node# 6. Intermediate weight: 35.91.
+Hidden neuron# 2, node# 7. Intermediate weight: -32.15.
+Hidden neuron# 2, node# 8. Intermediate weight: 1.71.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.78.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.57.
+Hidden neuron# 2, node# 11. Intermediate weight: 18.38.
+Hidden neuron# 2, node# 12. Intermediate weight: 11.48.
+Hidden neuron# 2, node# 13. Intermediate weight: 35.29.
+Hidden neuron# 2, node# 14. Intermediate weight: 17.07.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.28.
+Hidden neuron# 2, node# 16. Intermediate weight: -23.96.
+Hidden neuron# 2, node# 17. Intermediate weight: -30.65.
+Hidden neuron# 2, node# 18. Intermediate weight: -0.78.
+Hidden neuron# 2, node# 19. Intermediate weight: 19.19.
+Hidden neuron# 2, node# 20. Intermediate weight: -7.93.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.44.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 0.29.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.48.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.56.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.62.
+Hidden neuron# 3, node# 4. Intermediate weight: -9.03.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.52.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.89.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.61.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.46.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.81.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.64.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.86.
+Hidden neuron# 3, node# 12. Intermediate weight: 16.16.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.45.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.89.
+Hidden neuron# 3, node# 15. Intermediate weight: -0.99.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.25.
+Hidden neuron# 3, node# 17. Intermediate weight: -1.09.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.85.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.71.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.86.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.89.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.28.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.75.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.78.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.65.
+Hidden neuron# 4, node# 4. Intermediate weight: 13.15.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.24.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.47.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.48.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.48.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.53.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.41.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.08.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.6.
+Hidden neuron# 4, node# 13. Intermediate weight: -10.89.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.75.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.75.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.97.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.21.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.79.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.05.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.18.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.23.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.65.
+Output neuron, node# 1. Intermediate weight: 20.44.
+Output neuron, node# 2. Intermediate weight: -21.61.
+Output neuron, node# 3. Intermediate weight: 21.94.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1400. Accuracy: 99.77%.
+End of epoch 1401. Accuracy: 99.77%.
+End of epoch 1402. Accuracy: 99.77%.
+End of epoch 1403. Accuracy: 99.77%.
+End of epoch 1404. Accuracy: 99.77%.
+End of epoch 1405. Accuracy: 99.77%.
+End of epoch 1406. Accuracy: 99.77%.
+End of epoch 1407. Accuracy: 99.77%.
+End of epoch 1408. Accuracy: 99.77%.
+End of epoch 1409. Accuracy: 99.77%.
+End of epoch 1410. Accuracy: 99.77%.
+End of epoch 1411. Accuracy: 99.77%.
+End of epoch 1412. Accuracy: 99.77%.
+End of epoch 1413. Accuracy: 99.77%.
+End of epoch 1414. Accuracy: 99.77%.
+End of epoch 1415. Accuracy: 99.77%.
+End of epoch 1416. Accuracy: 99.77%.
+End of epoch 1417. Accuracy: 99.77%.
+End of epoch 1418. Accuracy: 99.77%.
+End of epoch 1419. Accuracy: 99.77%.
+End of epoch 1420. Accuracy: 99.77%.
+End of epoch 1421. Accuracy: 99.77%.
+End of epoch 1422. Accuracy: 99.77%.
+End of epoch 1423. Accuracy: 99.77%.
+End of epoch 1424. Accuracy: 99.77%.
+End of epoch 1425. Accuracy: 99.77%.
+End of epoch 1426. Accuracy: 99.77%.
+End of epoch 1427. Accuracy: 99.77%.
+End of epoch 1428. Accuracy: 99.77%.
+End of epoch 1429. Accuracy: 99.77%.
+End of epoch 1430. Accuracy: 99.77%.
+End of epoch 1431. Accuracy: 99.77%.
+End of epoch 1432. Accuracy: 99.77%.
+End of epoch 1433. Accuracy: 99.77%.
+End of epoch 1434. Accuracy: 99.77%.
+End of epoch 1435. Accuracy: 99.77%.
+End of epoch 1436. Accuracy: 99.77%.
+End of epoch 1437. Accuracy: 99.77%.
+End of epoch 1438. Accuracy: 99.77%.
+End of epoch 1439. Accuracy: 99.77%.
+End of epoch 1440. Accuracy: 99.77%.
+End of epoch 1441. Accuracy: 99.77%.
+End of epoch 1442. Accuracy: 99.77%.
+End of epoch 1443. Accuracy: 99.77%.
+End of epoch 1444. Accuracy: 99.77%.
+End of epoch 1445. Accuracy: 99.77%.
+End of epoch 1446. Accuracy: 99.77%.
+End of epoch 1447. Accuracy: 99.77%.
+End of epoch 1448. Accuracy: 99.77%.
+End of epoch 1449. Accuracy: 99.77%.
+End of epoch 1450. Accuracy: 99.77%.
+End of epoch 1451. Accuracy: 99.77%.
+End of epoch 1452. Accuracy: 99.77%.
+End of epoch 1453. Accuracy: 99.77%.
+End of epoch 1454. Accuracy: 99.77%.
+End of epoch 1455. Accuracy: 99.77%.
+End of epoch 1456. Accuracy: 99.77%.
+End of epoch 1457. Accuracy: 99.77%.
+End of epoch 1458. Accuracy: 99.77%.
+End of epoch 1459. Accuracy: 99.77%.
+End of epoch 1460. Accuracy: 99.77%.
+End of epoch 1461. Accuracy: 99.77%.
+End of epoch 1462. Accuracy: 99.77%.
+End of epoch 1463. Accuracy: 99.77%.
+End of epoch 1464. Accuracy: 99.77%.
+End of epoch 1465. Accuracy: 99.77%.
+End of epoch 1466. Accuracy: 99.77%.
+End of epoch 1467. Accuracy: 99.77%.
+End of epoch 1468. Accuracy: 99.77%.
+End of epoch 1469. Accuracy: 99.77%.
+End of epoch 1470. Accuracy: 99.77%.
+End of epoch 1471. Accuracy: 99.77%.
+End of epoch 1472. Accuracy: 99.77%.
+End of epoch 1473. Accuracy: 99.77%.
+End of epoch 1474. Accuracy: 99.77%.
+End of epoch 1475. Accuracy: 99.77%.
+End of epoch 1476. Accuracy: 99.77%.
+End of epoch 1477. Accuracy: 99.77%.
+End of epoch 1478. Accuracy: 99.77%.
+End of epoch 1479. Accuracy: 99.77%.
+End of epoch 1480. Accuracy: 99.77%.
+End of epoch 1481. Accuracy: 99.77%.
+End of epoch 1482. Accuracy: 99.77%.
+End of epoch 1483. Accuracy: 99.77%.
+End of epoch 1484. Accuracy: 99.77%.
+End of epoch 1485. Accuracy: 99.77%.
+End of epoch 1486. Accuracy: 99.77%.
+End of epoch 1487. Accuracy: 99.77%.
+End of epoch 1488. Accuracy: 99.77%.
+End of epoch 1489. Accuracy: 99.77%.
+End of epoch 1490. Accuracy: 99.77%.
+End of epoch 1491. Accuracy: 99.77%.
+End of epoch 1492. Accuracy: 99.77%.
+End of epoch 1493. Accuracy: 99.77%.
+End of epoch 1494. Accuracy: 99.77%.
+End of epoch 1495. Accuracy: 99.77%.
+End of epoch 1496. Accuracy: 99.77%.
+End of epoch 1497. Accuracy: 99.77%.
+End of epoch 1498. Accuracy: 99.77%.
+End of epoch 1499. Accuracy: 99.77%.
+Hidden neuron# 1, node# 0. Intermediate weight: 4.11.
+Hidden neuron# 1, node# 1. Intermediate weight: -3.5.
+Hidden neuron# 1, node# 2. Intermediate weight: -6.56.
+Hidden neuron# 1, node# 3. Intermediate weight: 2.59.
+Hidden neuron# 1, node# 4. Intermediate weight: -3.79.
+Hidden neuron# 1, node# 5. Intermediate weight: -0.7.
+Hidden neuron# 1, node# 6. Intermediate weight: -2.03.
+Hidden neuron# 1, node# 7. Intermediate weight: 1.35.
+Hidden neuron# 1, node# 8. Intermediate weight: 2.08.
+Hidden neuron# 1, node# 9. Intermediate weight: 10.71.
+Hidden neuron# 1, node# 10. Intermediate weight: 16.83.
+Hidden neuron# 1, node# 11. Intermediate weight: -12.23.
+Hidden neuron# 1, node# 12. Intermediate weight: 8.99.
+Hidden neuron# 1, node# 13. Intermediate weight: -11.17.
+Hidden neuron# 1, node# 14. Intermediate weight: -10.89.
+Hidden neuron# 1, node# 15. Intermediate weight: -2.94.
+Hidden neuron# 1, node# 16. Intermediate weight: -2.82.
+Hidden neuron# 1, node# 17. Intermediate weight: 6.8.
+Hidden neuron# 1, node# 18. Intermediate weight: 8.78.
+Hidden neuron# 1, node# 19. Intermediate weight: 19.88.
+Hidden neuron# 1, node# 20. Intermediate weight: -0.46.
+Hidden neuron# 1, node# 21. Intermediate weight: 3.79.
+Hidden neuron# 1, node# 22. Intermediate weight: 0.32.
+Hidden neuron# 2, node# 0. Intermediate weight: 3.92.
+Hidden neuron# 2, node# 1. Intermediate weight: 0.
+Hidden neuron# 2, node# 2. Intermediate weight: 0.56.
+Hidden neuron# 2, node# 3. Intermediate weight: -28.18.
+Hidden neuron# 2, node# 4. Intermediate weight: -9.81.
+Hidden neuron# 2, node# 5. Intermediate weight: -10.87.
+Hidden neuron# 2, node# 6. Intermediate weight: 35.99.
+Hidden neuron# 2, node# 7. Intermediate weight: -31.76.
+Hidden neuron# 2, node# 8. Intermediate weight: 1.71.
+Hidden neuron# 2, node# 9. Intermediate weight: -14.87.
+Hidden neuron# 2, node# 10. Intermediate weight: 18.35.
+Hidden neuron# 2, node# 11. Intermediate weight: 18.76.
+Hidden neuron# 2, node# 12. Intermediate weight: 10.63.
+Hidden neuron# 2, node# 13. Intermediate weight: 35.48.
+Hidden neuron# 2, node# 14. Intermediate weight: 17.2.
+Hidden neuron# 2, node# 15. Intermediate weight: -14.13.
+Hidden neuron# 2, node# 16. Intermediate weight: -23.77.
+Hidden neuron# 2, node# 17. Intermediate weight: -30.66.
+Hidden neuron# 2, node# 18. Intermediate weight: -0.9.
+Hidden neuron# 2, node# 19. Intermediate weight: 18.56.
+Hidden neuron# 2, node# 20. Intermediate weight: -7.64.
+Hidden neuron# 2, node# 21. Intermediate weight: 10.18.
+Hidden neuron# 2, node# 22. Intermediate weight: -0.34.
+Hidden neuron# 3, node# 0. Intermediate weight: 0.44.
+Hidden neuron# 3, node# 1. Intermediate weight: -4.49.
+Hidden neuron# 3, node# 2. Intermediate weight: 1.57.
+Hidden neuron# 3, node# 3. Intermediate weight: -11.72.
+Hidden neuron# 3, node# 4. Intermediate weight: -9.06.
+Hidden neuron# 3, node# 5. Intermediate weight: 0.52.
+Hidden neuron# 3, node# 6. Intermediate weight: 3.85.
+Hidden neuron# 3, node# 7. Intermediate weight: 10.65.
+Hidden neuron# 3, node# 8. Intermediate weight: 0.44.
+Hidden neuron# 3, node# 9. Intermediate weight: -10.87.
+Hidden neuron# 3, node# 10. Intermediate weight: 3.62.
+Hidden neuron# 3, node# 11. Intermediate weight: 0.77.
+Hidden neuron# 3, node# 12. Intermediate weight: 16.38.
+Hidden neuron# 3, node# 13. Intermediate weight: -7.46.
+Hidden neuron# 3, node# 14. Intermediate weight: 2.9.
+Hidden neuron# 3, node# 15. Intermediate weight: -1.
+Hidden neuron# 3, node# 16. Intermediate weight: 3.24.
+Hidden neuron# 3, node# 17. Intermediate weight: -1.1.
+Hidden neuron# 3, node# 18. Intermediate weight: 11.87.
+Hidden neuron# 3, node# 19. Intermediate weight: 4.84.
+Hidden neuron# 3, node# 20. Intermediate weight: -13.89.
+Hidden neuron# 3, node# 21. Intermediate weight: -12.9.
+Hidden neuron# 3, node# 22. Intermediate weight: 0.12.
+Hidden neuron# 4, node# 0. Intermediate weight: 0.22.
+Hidden neuron# 4, node# 1. Intermediate weight: -0.73.
+Hidden neuron# 4, node# 2. Intermediate weight: -0.76.
+Hidden neuron# 4, node# 3. Intermediate weight: 9.68.
+Hidden neuron# 4, node# 4. Intermediate weight: 13.2.
+Hidden neuron# 4, node# 5. Intermediate weight: -9.25.
+Hidden neuron# 4, node# 6. Intermediate weight: 13.47.
+Hidden neuron# 4, node# 7. Intermediate weight: -42.52.
+Hidden neuron# 4, node# 8. Intermediate weight: 1.44.
+Hidden neuron# 4, node# 9. Intermediate weight: 13.52.
+Hidden neuron# 4, node# 10. Intermediate weight: -19.38.
+Hidden neuron# 4, node# 11. Intermediate weight: 24.07.
+Hidden neuron# 4, node# 12. Intermediate weight: 21.59.
+Hidden neuron# 4, node# 13. Intermediate weight: -10.88.
+Hidden neuron# 4, node# 14. Intermediate weight: -7.74.
+Hidden neuron# 4, node# 15. Intermediate weight: 3.74.
+Hidden neuron# 4, node# 16. Intermediate weight: -15.98.
+Hidden neuron# 4, node# 17. Intermediate weight: -9.22.
+Hidden neuron# 4, node# 18. Intermediate weight: -0.76.
+Hidden neuron# 4, node# 19. Intermediate weight: 5.04.
+Hidden neuron# 4, node# 20. Intermediate weight: -7.11.
+Hidden neuron# 4, node# 21. Intermediate weight: -12.28.
+Hidden neuron# 4, node# 22. Intermediate weight: -0.55.
+Output neuron, node# 0. Intermediate weight: -12.85.
+Output neuron, node# 1. Intermediate weight: 20.62.
+Output neuron, node# 2. Intermediate weight: -21.67.
+Output neuron, node# 3. Intermediate weight: 22.09.
+Output neuron, node# 4. Intermediate weight: 0.5.
+End of epoch 1500. Accuracy: 99.77%.
+End of epoch 1501. Accuracy: 99.77%.
+End of epoch 1502. Accuracy: 99.77%.
+End of epoch 1503. Accuracy: 99.77%.
+End of epoch 1504. Accuracy: 99.77%.
+End of epoch 1505. Accuracy: 99.77%.
+End of epoch 1506. Accuracy: 99.77%.
+End of epoch 1507. Accuracy: 99.77%.
+End of epoch 1508. Accuracy: 99.77%.
+End of epoch 1509. Accuracy: 99.77%.
+End of epoch 1510. Accuracy: 99.77%.
+End of epoch 1511. Accuracy: 99.77%.
+End of epoch 1512. Accuracy: 99.77%.
+End of epoch 1513. Accuracy: 99.77%.
+End of epoch 1514. Accuracy: 99.77%.
+End of epoch 1515. Accuracy: 99.77%.
+End of epoch 1516. Accuracy: 99.77%.
+End of epoch 1517. Accuracy: 99.77%.
+End of epoch 1518. Accuracy: 99.77%.
+End of epoch 1519. Accuracy: 99.77%.
+End of epoch 1520. Accuracy: 99.77%.
+End of epoch 1521. Accuracy: 99.77%.
+End of epoch 1522. Accuracy: 99.77%.
+End of epoch 1523. Accuracy: 99.77%.
+End of epoch 1524. Accuracy: 99.77%.
+End of epoch 1525. Accuracy: 99.77%.
+End of epoch 1526. Accuracy: 99.77%.
+End of epoch 1527. Accuracy: 99.77%.
+End of epoch 1528. Accuracy: 99.77%.
+End of epoch 1529. Accuracy: 99.77%.
+End of epoch 1530. Accuracy: 99.77%.
+End of epoch 1531. Accuracy: 99.77%.
+End of epoch 1532. Accuracy: 99.77%.
+End of epoch 1533. Accuracy: 99.77%.
+End of epoch 1534. Accuracy: 99.77%.
+End of epoch 1535. Accuracy: 99.78%.
+End of epoch 1536. Accuracy: 99.78%.
+End of epoch 1537. Accuracy: 99.78%.
+End of epoch 1538. Accuracy: 99.78%.
+End of epoch 1539. Accuracy: 99.78%.
+End of epoch 1540. Accuracy: 99.78%.
+End of epoch 1541. Accuracy: 99.78%.
+End of epoch 1542. Accuracy: 99.78%.
+End of epoch 1543. Accuracy: 99.78%.
+End of epoch 1544. Accuracy: 99.78%.
+End of epoch 1545. Accuracy: 99.78%.
+End of epoch 1546. Accuracy: 99.78%.
+End of epoch 1547. Accuracy: 99.78%.
+End of epoch 1548. Accuracy: 99.78%.
+End of epoch 1549. Accuracy: 99.78%.
+End of epoch 1550. Accuracy: 99.78%.
+End of epoch 1551. Accuracy: 99.78%.
+End of epoch 1552. Accuracy: 99.78%.
+End of epoch 1553. Accuracy: 99.78%.
+End of epoch 1554. Accuracy: 99.78%.
+End of epoch 1555. Accuracy: 99.78%.
+End of epoch 1556. Accuracy: 99.78%.
+End of epoch 1557. Accuracy: 99.78%.
+End of epoch 1558. Accuracy: 99.78%.
+End of epoch 1559. Accuracy: 99.78%.
+End of epoch 1560. Accuracy: 99.78%.
+End of epoch 1561. Accuracy: 99.78%.
+End of epoch 1562. Accuracy: 99.78%.
+End of epoch 1563. Accuracy: 99.78%.
+End of epoch 1564. Accuracy: 99.78%.
+End of epoch 1565. Accuracy: 99.78%.
+End of epoch 1566. Accuracy: 99.78%.
+End of epoch 1567. Accuracy: 99.78%.
+End of epoch 1568. Accuracy: 99.78%.
+End of epoch 1569. Accuracy: 99.78%.
+End of epoch 1570. Accuracy: 99.78%.
+End of epoch 1571. Accuracy: 99.78%.
+End of epoch 1572. Accuracy: 99.78%.
+End of epoch 1573. Accuracy: 99.78%.
+End of epoch 1574. Accuracy: 99.72%.
+End of epoch 1575. Accuracy: 99.78%.
+End of epoch 1576. Accuracy: 99.78%.
+End of epoch 1577. Accuracy: 99.78%.
+End of epoch 1578. Accuracy: 99.78%.
+End of epoch 1579. Accuracy: 99.74%.
+End of epoch 1580. Accuracy: 99.76%.
+End of epoch 1581. Accuracy: 99.78%.
+End of epoch 1582. Accuracy: 99.76%.
+End of epoch 1583. Accuracy: 99.78%.
+End of epoch 1584. Accuracy: 99.78%.
+End of epoch 1585. Accuracy: 99.78%.
+End of epoch 1586. Accuracy: 99.77%.
+End of epoch 1587. Accuracy: 99.76%.
+End of epoch 1588. Accuracy: 99.79%.
+End of epoch 1589. Accuracy: 99.77%.
+End of epoch 1590. Accuracy: 99.83%.
+End of epoch 1591. Accuracy: 99.82%.
+End of epoch 1592. Accuracy: 99.86%.
+End of epoch 1593. Accuracy: 99.87%.
+End of epoch 1594. Accuracy: 99.9%.
+TOTAL EPOCHS: 1595. ACCURACY: 99.9%.
+RUNTIME: 28077.0 ms.
+Hidden neuron# 1, node# 0. Final weight: 4.66.
+Hidden neuron# 1, node# 1. Final weight: -3.32.
+Hidden neuron# 1, node# 2. Final weight: -6.34.
+Hidden neuron# 1, node# 3. Final weight: 2.43.
+Hidden neuron# 1, node# 4. Final weight: -3.88.
+Hidden neuron# 1, node# 5. Final weight: -0.66.
+Hidden neuron# 1, node# 6. Final weight: -1.99.
+Hidden neuron# 1, node# 7. Final weight: 1.48.
+Hidden neuron# 1, node# 8. Final weight: 2.31.
+Hidden neuron# 1, node# 9. Final weight: 10.83.
+Hidden neuron# 1, node# 10. Final weight: 16.91.
+Hidden neuron# 1, node# 11. Final weight: -12.45.
+Hidden neuron# 1, node# 12. Final weight: 9.55.
+Hidden neuron# 1, node# 13. Final weight: -11.16.
+Hidden neuron# 1, node# 14. Final weight: -10.82.
+Hidden neuron# 1, node# 15. Final weight: -2.86.
+Hidden neuron# 1, node# 16. Final weight: -2.72.
+Hidden neuron# 1, node# 17. Final weight: 6.93.
+Hidden neuron# 1, node# 18. Final weight: 8.86.
+Hidden neuron# 1, node# 19. Final weight: 20.4.
+Hidden neuron# 1, node# 20. Final weight: -0.25.
+Hidden neuron# 1, node# 21. Final weight: 3.93.
+Hidden neuron# 1, node# 22. Final weight: 0.32.
+Hidden neuron# 2, node# 0. Final weight: 6.1.
+Hidden neuron# 2, node# 1. Final weight: 2.16.
+Hidden neuron# 2, node# 2. Final weight: 1.82.
+Hidden neuron# 2, node# 3. Final weight: -30.19.
+Hidden neuron# 2, node# 4. Final weight: -6.89.
+Hidden neuron# 2, node# 5. Final weight: -10.41.
+Hidden neuron# 2, node# 6. Final weight: 36.37.
+Hidden neuron# 2, node# 7. Final weight: -28.43.
+Hidden neuron# 2, node# 8. Final weight: 4.6.
+Hidden neuron# 2, node# 9. Final weight: -17.55.
+Hidden neuron# 2, node# 10. Final weight: 15.38.
+Hidden neuron# 2, node# 11. Final weight: 21.09.
+Hidden neuron# 2, node# 12. Final weight: 4.43.
+Hidden neuron# 2, node# 13. Final weight: 37.04.
+Hidden neuron# 2, node# 14. Final weight: 18.56.
+Hidden neuron# 2, node# 15. Final weight: -13.37.
+Hidden neuron# 2, node# 16. Final weight: -22.8.
+Hidden neuron# 2, node# 17. Final weight: -30.54.
+Hidden neuron# 2, node# 18. Final weight: -2.8.
+Hidden neuron# 2, node# 19. Final weight: 15.05.
+Hidden neuron# 2, node# 20. Final weight: -5.96.
+Hidden neuron# 2, node# 21. Final weight: 6.86.
+Hidden neuron# 2, node# 22. Final weight: -0.34.
+Hidden neuron# 3, node# 0. Final weight: 1.28.
+Hidden neuron# 3, node# 1. Final weight: -3.35.
+Hidden neuron# 3, node# 2. Final weight: 1.86.
+Hidden neuron# 3, node# 3. Final weight: -12.28.
+Hidden neuron# 3, node# 4. Final weight: -8.84.
+Hidden neuron# 3, node# 5. Final weight: 0.43.
+Hidden neuron# 3, node# 6. Final weight: 2.5.
+Hidden neuron# 3, node# 7. Final weight: 10.95.
+Hidden neuron# 3, node# 8. Final weight: 0.16.
+Hidden neuron# 3, node# 9. Final weight: -11.16.
+Hidden neuron# 3, node# 10. Final weight: 2.38.
+Hidden neuron# 3, node# 11. Final weight: 0.01.
+Hidden neuron# 3, node# 12. Final weight: 16.78.
+Hidden neuron# 3, node# 13. Final weight: -7.65.
+Hidden neuron# 3, node# 14. Final weight: 3.44.
+Hidden neuron# 3, node# 15. Final weight: -1.15.
+Hidden neuron# 3, node# 16. Final weight: 3.05.
+Hidden neuron# 3, node# 17. Final weight: -1.25.
+Hidden neuron# 3, node# 18. Final weight: 11.63.
+Hidden neuron# 3, node# 19. Final weight: 5.
+Hidden neuron# 3, node# 20. Final weight: -14.24.
+Hidden neuron# 3, node# 21. Final weight: -13.47.
+Hidden neuron# 3, node# 22. Final weight: 0.12.
+Hidden neuron# 4, node# 0. Final weight: 0.19.
+Hidden neuron# 4, node# 1. Final weight: -0.68.
+Hidden neuron# 4, node# 2. Final weight: -1.4.
+Hidden neuron# 4, node# 3. Final weight: 9.81.
+Hidden neuron# 4, node# 4. Final weight: 13.53.
+Hidden neuron# 4, node# 5. Final weight: -9.22.
+Hidden neuron# 4, node# 6. Final weight: 13.53.
+Hidden neuron# 4, node# 7. Final weight: -42.58.
+Hidden neuron# 4, node# 8. Final weight: 0.87.
+Hidden neuron# 4, node# 9. Final weight: 13.34.
+Hidden neuron# 4, node# 10. Final weight: -19.83.
+Hidden neuron# 4, node# 11. Final weight: 24.11.
+Hidden neuron# 4, node# 12. Final weight: 21.63.
+Hidden neuron# 4, node# 13. Final weight: -10.76.
+Hidden neuron# 4, node# 14. Final weight: -7.63.
+Hidden neuron# 4, node# 15. Final weight: 3.79.
+Hidden neuron# 4, node# 16. Final weight: -15.92.
+Hidden neuron# 4, node# 17. Final weight: -9.1.
+Hidden neuron# 4, node# 18. Final weight: -1.22.
+Hidden neuron# 4, node# 19. Final weight: 5.57.
+Hidden neuron# 4, node# 20. Final weight: -7.9.
+Hidden neuron# 4, node# 21. Final weight: -11.9.
+Hidden neuron# 4, node# 22. Final weight: -0.55.
+Output neuron, node# 0. Final weight: -15.9.
+Output neuron, node# 1. Final weight: 20.3.
+Output neuron, node# 2. Final weight: -21.68.
+Output neuron, node# 3. Final weight: 22.46.
+Output neuron, node# 4. Final weight: 0.5.
+ACCURACY FOR TESTING: 99.81%.
